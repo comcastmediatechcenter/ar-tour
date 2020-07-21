@@ -6,6 +6,14 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/GPSInitScene.unity
+    guid: 8c6c3128508b54c4e87e150415431dd8
+  - enabled: 1
+    path: Assets/Scenes/MapScene.unity
+    guid: fcdc6a05c10584d198a441df604acc74
+  - enabled: 1
     path: Assets/Scenes/ARScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
-  m_configObjects: {}
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 48195a9f725aa4f03ac26747eee7430d,
+      type: 2}

@@ -2,47 +2,60 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using OpenTK;
+using UnityEngine.SceneManagement;
 
 public class GPSObject : MonoBehaviour{
   private bool isObjectSpawned;
   public Text DebugText;
-  public Vector3 GpsPosition;
+  public Vector3d GpsPosition;
   public GPSManager GPSManager;
+  public float maxScale = 75;
+  public float minScale = 5;
 
-  private float degreesLatitudeInMeters = 111132;
-  private float degreesLongitudeInMetersAtEquator = 111319.9f;
-
-  // Use this for initialization
   void Start () {}
 
-  //From GPSTrackedObject
-  private float GetLongitudeDegreeDistance(float latitude){
-    return degreesLongitudeInMetersAtEquator * Mathf.Cos(((float)latitude) * (Mathf.PI / 180));
+  //Calculates a value to scale by based off of ditance to the object
+  private float ScaleOnDistance(Vector3d offset){
+    double dist = (float)Mathf.Sqrt(Mathf.Pow(Mathf.Abs((float)offset.X), 2) + Mathf.Pow(Mathf.Abs((float)offset.Z), 2));
+    float scale = (float)(dist / 5f);
+    //end cases
+    if(scale < minScale) scale = minScale;
+    if(scale > maxScale) scale = maxScale;
+    return scale;
   }
 
-	// Update is called once per frame
   private bool set = false;
   private float initHeading = -1f;
   void Update () {
      if (GPSManager.ServiceStatus == LocationServiceStatus.Running && !set){
-       transform.position = Vector3.zero;
-       transform.rotation = Quaternion.identity;
+       transform.position = Vector3.zero; //center
+       transform.rotation = Quaternion.identity; // remove any rotation
 
-       Vector3 gpsPosition = GPSManager.position;
-       Vector3 objectPosition = GpsPosition;
-       Vector3 offset = Vector3.Scale((objectPosition - gpsPosition), new Vector3(degreesLatitudeInMeters, 1, GetLongitudeDegreeDistance(gpsPosition.x)));
+       Vector3d offset = GPSManager.CalculateOffset(new Vector3d(GPSManager.position), GpsPosition);
 
-       //var heading = MathHelper.DegreesToRadians(GPSManager.heading);
-
-       initHeading = 360 - GPSManager.heading;
-       //var t = Quaterniond.FromEulerAngles(0, initHeading, 0);
-       //var rotatedOffset = t * offset;
-
+       initHeading = 360 - GPSManager.heading; //idk why this was necesary but it was
+       //initHeading = GPSManager.heading;
+       /* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+        *  Basic idea here is that since we know the initial heading, we know
+        * which way the user was facing the first time that this script was
+        * called. This value is how much the AR coordinate system is from the
+        * real worlds.
+        *  We rotate the object by this value and then rotate it such that it
+        * aligns with the real world and then apply a translation which is
+        * relative to the objects rotation. Essentially if you roate 45deg and
+        * then translate 1 unit +Z you will move based off of your LOCAL
+        * coordinate system which is now 45deg off from the GLOBAL coordinate
+        * system.
+        * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
        transform.Rotate(0, initHeading, 0);
-       transform.Translate(new Vector3((float)offset.z, 15f, (float)offset.x));
+       transform.Translate(new Vector3((float)offset.Z, 15f, (float)offset.X));
+       float s = ScaleOnDistance(offset);
+       transform.localScale = new Vector3(s, s, s);
 
        set = !set;
      }
+
      if(DebugText != null) DebugText.text = "OBJECT:\n\tPOS " + transform.position + "\n\tGPS " + GpsPosition + "\n\tSET: " + set + "\n\tINIT HEADING: " + initHeading;
 	}
 }
