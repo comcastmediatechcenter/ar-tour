@@ -19,8 +19,8 @@ public class InfoManager : MonoBehaviour{
   public Text PromptText;
   public Button ExitButton;
 
-  [Header("Raycast Mode")]
-  public Camera ARCamera;
+  //[Header("Raycast Mode")]
+  //public Camera ARCamera;
 
   [Header("Map Mode")]
   public GPSManager GPSManager;

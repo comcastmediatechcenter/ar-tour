@@ -2,6 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/*
+ *  This file defines a POI object which is what is read in from the JSON file
+ * to create the seamless system we all love and know.
+ */
 [System.Serializable]
 public class POI{
   public double lat;
