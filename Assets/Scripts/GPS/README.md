@@ -19,4 +19,4 @@ This object is attached to objects in AR to ensure that their location is correc
 * **Max Scale** - This is for the distance based scaling method and sets the maximum size for the object.
 * **Min Scale** - This is for the distance based scaling method and sets the minimum size for the object.
 ## OpenTK
-The OpenTK classes were included to provide higher resolution ``Vector3``s that use ``double``s instead of ``float``s. More can be fount [here](https://github.com/opentk/opentk).
+The OpenTK classes were included to provide higher resolution ``Vector3``s that use ``double``s instead of ``float``s. More can be found [here](https://github.com/opentk/opentk).
