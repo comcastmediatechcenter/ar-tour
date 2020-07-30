@@ -31,7 +31,7 @@ public class GPSInit : MonoBehaviour{
     DebugText.text = "Starting GPSManager . . . ";
     if (Input.location.isEnabledByUser){
       Input.location.Start();
-      yield return new WaitForSeconds(5);
+      //yield return new WaitForSeconds(5);
 
       int maxWait = 20;
       while (Input.location.status == LocationServiceStatus.Initializing && maxWait > 0){

@@ -53,7 +53,7 @@ public class GPSManager : MonoBehaviour{
      * Most of this code came from here: https://blog.anarks2.com/Geolocated-AR-In-Unity-ARFoundation/.
      * Some changes to it allowed for us to reuse it app wide.
      * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
-    if (Input.location.status == LocationServiceStatus.Running){
+    if (Input.location.status == LocationServiceStatus.Running && !UseFakeLocation){
       var latitude = Input.location.lastData.latitude;
       var longitude = Input.location.lastData.longitude;
       var altitude = Input.location.lastData.altitude;
@@ -66,7 +66,7 @@ public class GPSManager : MonoBehaviour{
       headingAccuracy = Input.compass.headingAccuracy;
 
       ServiceStatus = Input.location.status;
-      Debug.Log(string.Format("Lat: {0} Long: {1} Alt: {2}\nDir: {3}", position.x, position.z, position.y, heading));
+      //Debug.Log(string.Format("Lat: {0} Long: {1} Alt: {2}\nDir: {3}", position.x, position.z, position.y, heading));
 
       if (TextDisplay){
         TextDisplay.text = "USER\n\tGPS: " + position + "\n\tHEADING: " + heading + " ACC: " + headingAccuracy;
