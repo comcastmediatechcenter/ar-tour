@@ -50,8 +50,8 @@ public class GPSObject : MonoBehaviour{
         * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
        transform.Rotate(0, initHeading, 0);
        transform.Translate(new Vector3((float)offset.Z, 15f, (float)offset.X));
-       float s = ScaleOnDistance(offset);
-       transform.localScale = new Vector3(s, s, s);
+       //float s = ScaleOnDistance(offset);
+       //transform.localScale = new Vector3(s, s, s);
 
        set = !set;
      }

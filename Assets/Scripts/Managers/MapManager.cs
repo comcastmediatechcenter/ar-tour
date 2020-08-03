@@ -37,7 +37,7 @@ public class MapManager : MonoBehaviour{
           GameObject obj = (GameObject)Instantiate(Resources.Load(poi.prefab));
           Vector3d offset = gps.CalculateOffset(new Vector3d(MapOrigin.X, 0 ,MapOrigin.Y), new Vector3d(poi.lat, 0, poi.lon));
           obj.transform.SetParent(Map.transform);
-          obj.transform.localPosition = new Vector3(-(float)offset.Z, 10, -(float)offset.X);
+          obj.transform.localPosition = new Vector3(-(float)offset.Z, 50, -(float)offset.X);
           //Debug.Log("POI " + poi.name + ": " + obj.transform.localPosition);
         } else {
           if(poi.type == 1){
