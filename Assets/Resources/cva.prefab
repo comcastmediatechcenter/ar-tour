@@ -1357,6 +1357,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4954708775775602001}
   - component: {fileID: 4848142713281737361}
+  - component: {fileID: 6408269830846061121}
   m_Layer: 0
   m_Name: cva
   m_TagString: Untagged
@@ -1372,7 +1373,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5731245926395011051}
   m_LocalRotation: {x: 0.7071068, y: 0, z: 0, w: -0.7071068}
-  m_LocalPosition: {x: -1.275, y: -0.43000007, z: 7.03}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 150, y: 150, z: 150}
   m_Children:
   - {fileID: 6019916437828339639}
@@ -1401,6 +1402,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &6408269830846061121
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5731245926395011051}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.25, y: 0.25, z: 0.25}
+  m_Center: {x: 0, y: 0.125, z: 0}
 --- !u!1 &6222406440082128694
 GameObject:
   m_ObjectHideFlags: 0
