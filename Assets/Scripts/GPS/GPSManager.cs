@@ -63,6 +63,7 @@ public class GPSManager : MonoBehaviour{
       var vAcc = Input.location.lastData.verticalAccuracy;
       positionAccuracy = new Vector3(hAcc, vAcc, hAcc);
       heading = Input.compass.trueHeading;
+      //heading = Input.compass.magneticHeading;
       headingAccuracy = Input.compass.headingAccuracy;
 
       ServiceStatus = Input.location.status;

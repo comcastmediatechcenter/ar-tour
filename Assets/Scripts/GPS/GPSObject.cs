@@ -28,13 +28,13 @@ public class GPSObject : MonoBehaviour{
   private bool set = false;
   private float initHeading = -1f;
   void Update () {
-     if (GPSManager.ServiceStatus == LocationServiceStatus.Running && !set){
+     if (GPSManager.ServiceStatus == LocationServiceStatus.Running && !set && GPSManager.headingAccuracy >= 0 ){
        transform.position = Vector3.zero; //center
        transform.rotation = Quaternion.identity; // remove any rotation
 
        Vector3d offset = GPSManager.CalculateOffset(new Vector3d(GPSManager.position), GpsPosition);
 
-       initHeading = 360 - GPSManager.heading; //idk why this was necesary but it was
+       initHeading = -(GPSManager.heading); //idk why this was necesary but it was
        //initHeading = GPSManager.heading;
        /* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
         *  Basic idea here is that since we know the initial heading, we know
@@ -49,7 +49,8 @@ public class GPSObject : MonoBehaviour{
         * system.
         * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
        transform.Rotate(0, initHeading, 0);
-       transform.Translate(new Vector3((float)offset.Z, 15f, (float)offset.X));
+
+       transform.Translate(new Vector3((float)offset.Z, 50f, (float)offset.X));
        //float s = ScaleOnDistance(offset);
        //transform.localScale = new Vector3(s, s, s);
 
