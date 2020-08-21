@@ -1,0 +1,7304 @@
+fileFormatVersion: 2
+guid: 27f3ecbd19ab8d7429ca465554513c88
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3298357579351187015
+    second: bell_graphic_v003_0
+  - first:
+      213: -2354633481022582082
+    second: bell_graphic_v003_1
+  - first:
+      213: -3497697876046352457
+    second: bell_graphic_v003_2
+  - first:
+      213: -5374181482004578876
+    second: bell_graphic_v003_3
+  - first:
+      213: -8407382467097015799
+    second: bell_graphic_v003_4
+  - first:
+      213: 6382948203086649195
+    second: bell_graphic_v003_5
+  - first:
+      213: 6176989232376123657
+    second: bell_graphic_v003_6
+  - first:
+      213: -2052717120850049199
+    second: bell_graphic_v003_7
+  - first:
+      213: -2301045854927960894
+    second: bell_graphic_v003_8
+  - first:
+      213: -3491813845847945880
+    second: bell_graphic_v003_9
+  - first:
+      213: 2683820931068894550
+    second: bell_graphic_v003_10
+  - first:
+      213: 1534106320533100951
+    second: bell_graphic_v003_11
+  - first:
+      213: -3782434289704947695
+    second: bell_graphic_v003_12
+  - first:
+      213: -8489551250505556444
+    second: bell_graphic_v003_13
+  - first:
+      213: 6612978495237504425
+    second: bell_graphic_v003_14
+  - first:
+      213: -2025467199708273639
+    second: bell_graphic_v003_15
+  - first:
+      213: -7066275093002708340
+    second: bell_graphic_v003_16
+  - first:
+      213: -4238897425606349512
+    second: bell_graphic_v003_17
+  - first:
+      213: 8212907516044440427
+    second: bell_graphic_v003_18
+  - first:
+      213: -4329074016072167770
+    second: bell_graphic_v003_19
+  - first:
+      213: 6999867764183813834
+    second: bell_graphic_v003_20
+  - first:
+      213: 1243225825199414816
+    second: bell_graphic_v003_21
+  - first:
+      213: 39317437886934666
+    second: bell_graphic_v003_22
+  - first:
+      213: -270793992119421302
+    second: bell_graphic_v003_23
+  - first:
+      213: 6618446321855994
+    second: bell_graphic_v003_24
+  - first:
+      213: -888139914093433518
+    second: bell_graphic_v003_25
+  - first:
+      213: 4336432269863369438
+    second: bell_graphic_v003_26
+  - first:
+      213: 3698560631483564168
+    second: bell_graphic_v003_27
+  - first:
+      213: 3937871182872650652
+    second: bell_graphic_v003_28
+  - first:
+      213: 3662424504327425379
+    second: bell_graphic_v003_29
+  - first:
+      213: 1467685392407745902
+    second: bell_graphic_v003_30
+  - first:
+      213: -2694186306610168025
+    second: bell_graphic_v003_31
+  - first:
+      213: 945649909675748722
+    second: bell_graphic_v003_32
+  - first:
+      213: 7061191042966002369
+    second: bell_graphic_v003_33
+  - first:
+      213: 5158762807594356183
+    second: bell_graphic_v003_34
+  - first:
+      213: 3621287490507100856
+    second: bell_graphic_v003_35
+  - first:
+      213: -3572360528538173484
+    second: bell_graphic_v003_36
+  - first:
+      213: -7930935155049878872
+    second: bell_graphic_v003_37
+  - first:
+      213: 5710472851194507071
+    second: bell_graphic_v003_38
+  - first:
+      213: -4531625721126659729
+    second: bell_graphic_v003_39
+  - first:
+      213: 1820061020581977849
+    second: bell_graphic_v003_40
+  - first:
+      213: 6614661126871748012
+    second: bell_graphic_v003_41
+  - first:
+      213: -3728387248443386691
+    second: bell_graphic_v003_42
+  - first:
+      213: -5757686021311757115
+    second: bell_graphic_v003_43
+  - first:
+      213: 1141495957510171800
+    second: bell_graphic_v003_44
+  - first:
+      213: -2210976184193705096
+    second: bell_graphic_v003_45
+  - first:
+      213: -628697214440203460
+    second: bell_graphic_v003_46
+  - first:
+      213: -382497744680389248
+    second: bell_graphic_v003_47
+  - first:
+      213: -6160475647653775942
+    second: bell_graphic_v003_48
+  - first:
+      213: 2230905984849317304
+    second: bell_graphic_v003_49
+  - first:
+      213: 1542836307575711070
+    second: bell_graphic_v003_50
+  - first:
+      213: -4629684491453558520
+    second: bell_graphic_v003_51
+  - first:
+      213: -3817353444452977410
+    second: bell_graphic_v003_52
+  - first:
+      213: -4510822218888839782
+    second: bell_graphic_v003_53
+  - first:
+      213: -1952108068892548442
+    second: bell_graphic_v003_54
+  - first:
+      213: 1759098029013138326
+    second: bell_graphic_v003_55
+  - first:
+      213: -4926352317559398856
+    second: bell_graphic_v003_56
+  - first:
+      213: 7373434143765971296
+    second: bell_graphic_v003_57
+  - first:
+      213: -2206843211951225940
+    second: bell_graphic_v003_58
+  - first:
+      213: -6392528588983399423
+    second: bell_graphic_v003_59
+  - first:
+      213: 4454001520776272054
+    second: bell_graphic_v003_60
+  - first:
+      213: 6670259673362198446
+    second: bell_graphic_v003_61
+  - first:
+      213: 2055610026148526988
+    second: bell_graphic_v003_62
+  - first:
+      213: -4530786032032782883
+    second: bell_graphic_v003_63
+  - first:
+      213: -5316094135959248123
+    second: bell_graphic_v003_64
+  - first:
+      213: 2800812542151688378
+    second: bell_graphic_v003_65
+  - first:
+      213: 889215966568581596
+    second: bell_graphic_v003_66
+  - first:
+      213: 2433071169838481399
+    second: bell_graphic_v003_67
+  - first:
+      213: -8018814682706637351
+    second: bell_graphic_v003_68
+  - first:
+      213: 154561226603276727
+    second: bell_graphic_v003_69
+  - first:
+      213: -3706113782214801834
+    second: bell_graphic_v003_70
+  - first:
+      213: 3220530244941801034
+    second: bell_graphic_v003_71
+  - first:
+      213: 6241561821530955914
+    second: bell_graphic_v003_72
+  - first:
+      213: 1273732012745921219
+    second: bell_graphic_v003_73
+  - first:
+      213: -380328188600948972
+    second: bell_graphic_v003_74
+  - first:
+      213: 2714598037566194481
+    second: bell_graphic_v003_75
+  - first:
+      213: 8352924999700851317
+    second: bell_graphic_v003_76
+  - first:
+      213: 943339838067627198
+    second: bell_graphic_v003_77
+  - first:
+      213: 9191125873344953260
+    second: bell_graphic_v003_78
+  - first:
+      213: 7311821876024967730
+    second: bell_graphic_v003_79
+  - first:
+      213: -5619179726656314444
+    second: bell_graphic_v003_80
+  - first:
+      213: 3683373363963177422
+    second: bell_graphic_v003_81
+  - first:
+      213: -3437256956710540707
+    second: bell_graphic_v003_82
+  - first:
+      213: 1744557276102951320
+    second: bell_graphic_v003_83
+  - first:
+      213: -7973787137909537975
+    second: bell_graphic_v003_84
+  - first:
+      213: -6811010311826976430
+    second: bell_graphic_v003_85
+  - first:
+      213: -660389316723574171
+    second: bell_graphic_v003_86
+  - first:
+      213: -1610459297140811812
+    second: bell_graphic_v003_87
+  - first:
+      213: 3309295024329123052
+    second: bell_graphic_v003_88
+  - first:
+      213: 3955995230186928278
+    second: bell_graphic_v003_89
+  - first:
+      213: -8523382763675760509
+    second: bell_graphic_v003_90
+  - first:
+      213: -6702967091595404208
+    second: bell_graphic_v003_91
+  - first:
+      213: -5146697523666426764
+    second: bell_graphic_v003_92
+  - first:
+      213: 3956850462777044136
+    second: bell_graphic_v003_93
+  - first:
+      213: -4343131805371204163
+    second: bell_graphic_v003_94
+  - first:
+      213: -2629753668582669785
+    second: bell_graphic_v003_95
+  - first:
+      213: -8515407508650559328
+    second: bell_graphic_v003_96
+  - first:
+      213: 7978687418680401168
+    second: bell_graphic_v003_97
+  - first:
+      213: -3657349259757085844
+    second: bell_graphic_v003_98
+  - first:
+      213: -7097128245313207370
+    second: bell_graphic_v003_99
+  - first:
+      213: 381395843544991218
+    second: bell_graphic_v003_100
+  - first:
+      213: 5980893715905694625
+    second: bell_graphic_v003_101
+  - first:
+      213: 6808204262343648974
+    second: bell_graphic_v003_102
+  - first:
+      213: 2362258403498512088
+    second: bell_graphic_v003_103
+  - first:
+      213: 7629293379722695744
+    second: bell_graphic_v003_104
+  - first:
+      213: -1927507404085991051
+    second: bell_graphic_v003_105
+  - first:
+      213: -7124336963710878197
+    second: bell_graphic_v003_106
+  - first:
+      213: 774291245043237687
+    second: bell_graphic_v003_107
+  - first:
+      213: -1172201754867837455
+    second: bell_graphic_v003_108
+  - first:
+      213: -4756590434278771091
+    second: bell_graphic_v003_109
+  - first:
+      213: -8883414585062874715
+    second: bell_graphic_v003_110
+  - first:
+      213: 9202936010099149942
+    second: bell_graphic_v003_111
+  - first:
+      213: -5265771658192472999
+    second: bell_graphic_v003_112
+  - first:
+      213: -1861448130968031949
+    second: bell_graphic_v003_113
+  - first:
+      213: 8065408544829574584
+    second: bell_graphic_v003_114
+  - first:
+      213: 27363133175748197
+    second: bell_graphic_v003_115
+  - first:
+      213: 4685437005394408987
+    second: bell_graphic_v003_116
+  - first:
+      213: -4026972953961124885
+    second: bell_graphic_v003_117
+  - first:
+      213: -449583528101837350
+    second: bell_graphic_v003_118
+  - first:
+      213: 2836530829171574049
+    second: bell_graphic_v003_119
+  - first:
+      213: 3918486152911150431
+    second: bell_graphic_v003_120
+  - first:
+      213: 6150442619298363854
+    second: bell_graphic_v003_121
+  - first:
+      213: 3253221800350393263
+    second: bell_graphic_v003_122
+  - first:
+      213: 5188527373992028310
+    second: bell_graphic_v003_123
+  - first:
+      213: -4641570894353207620
+    second: bell_graphic_v003_124
+  - first:
+      213: -7631995727976580007
+    second: bell_graphic_v003_125
+  - first:
+      213: 316450813815506605
+    second: bell_graphic_v003_126
+  - first:
+      213: -4568698381477380422
+    second: bell_graphic_v003_127
+  - first:
+      213: -890228039663664768
+    second: bell_graphic_v003_128
+  - first:
+      213: 7509015084780725732
+    second: bell_graphic_v003_129
+  - first:
+      213: 4577026232687766985
+    second: bell_graphic_v003_130
+  - first:
+      213: -2081626989396515443
+    second: bell_graphic_v003_131
+  - first:
+      213: 7319061904770212181
+    second: bell_graphic_v003_132
+  - first:
+      213: -6515160850732706844
+    second: bell_graphic_v003_133
+  - first:
+      213: -1197022117974835598
+    second: bell_graphic_v003_134
+  - first:
+      213: 812856014329816892
+    second: bell_graphic_v003_135
+  - first:
+      213: 8758722665599766713
+    second: bell_graphic_v003_136
+  - first:
+      213: 4415973023044458824
+    second: bell_graphic_v003_137
+  - first:
+      213: 2495158175670889090
+    second: bell_graphic_v003_138
+  - first:
+      213: -7856893789776567974
+    second: bell_graphic_v003_139
+  - first:
+      213: 3830941871584385021
+    second: bell_graphic_v003_140
+  - first:
+      213: -1974958661573911749
+    second: bell_graphic_v003_141
+  - first:
+      213: 1157701673408482861
+    second: bell_graphic_v003_142
+  - first:
+      213: 7506232986092698242
+    second: bell_graphic_v003_143
+  - first:
+      213: -8836195159882182878
+    second: bell_graphic_v003_144
+  - first:
+      213: 1558694038030438992
+    second: bell_graphic_v003_145
+  - first:
+      213: -90499937974209028
+    second: bell_graphic_v003_146
+  - first:
+      213: -1828431612828503289
+    second: bell_graphic_v003_147
+  - first:
+      213: 8770469336200343891
+    second: bell_graphic_v003_148
+  - first:
+      213: -5676406175280267812
+    second: bell_graphic_v003_149
+  - first:
+      213: -9091860186327273546
+    second: bell_graphic_v003_150
+  - first:
+      213: -907400196251601016
+    second: bell_graphic_v003_151
+  - first:
+      213: -3340601929561529266
+    second: bell_graphic_v003_152
+  - first:
+      213: -2528827711510205274
+    second: bell_graphic_v003_153
+  - first:
+      213: 281011545241087343
+    second: bell_graphic_v003_154
+  - first:
+      213: 4406346799616769608
+    second: bell_graphic_v003_155
+  - first:
+      213: 3452120485678828467
+    second: bell_graphic_v003_156
+  - first:
+      213: -4744032383892834978
+    second: bell_graphic_v003_157
+  - first:
+      213: -7341847349802147388
+    second: bell_graphic_v003_158
+  - first:
+      213: 7615694394966793341
+    second: bell_graphic_v003_159
+  - first:
+      213: -1378067802945884195
+    second: bell_graphic_v003_160
+  - first:
+      213: -7974248924359379352
+    second: bell_graphic_v003_161
+  - first:
+      213: -3152437915515344880
+    second: bell_graphic_v003_162
+  - first:
+      213: 2113670619401415918
+    second: bell_graphic_v003_163
+  - first:
+      213: 3598531466802365473
+    second: bell_graphic_v003_164
+  - first:
+      213: -5980193089175821767
+    second: bell_graphic_v003_165
+  - first:
+      213: -4034090211194405244
+    second: bell_graphic_v003_166
+  - first:
+      213: 6857746032674226905
+    second: bell_graphic_v003_167
+  - first:
+      213: 5470835547142161091
+    second: bell_graphic_v003_168
+  - first:
+      213: -6196975845413592983
+    second: bell_graphic_v003_169
+  - first:
+      213: -7329179907074817661
+    second: bell_graphic_v003_170
+  - first:
+      213: -1911299614507402875
+    second: bell_graphic_v003_171
+  - first:
+      213: 7490261507952299560
+    second: bell_graphic_v003_172
+  - first:
+      213: -6514639783005382397
+    second: bell_graphic_v003_173
+  - first:
+      213: -9206812297567415351
+    second: bell_graphic_v003_174
+  - first:
+      213: 7838713268608439751
+    second: bell_graphic_v003_175
+  - first:
+      213: -6548847136305828200
+    second: bell_graphic_v003_176
+  - first:
+      213: -3173780043109690524
+    second: bell_graphic_v003_177
+  - first:
+      213: -7252926130745882809
+    second: bell_graphic_v003_178
+  - first:
+      213: 5368882590968202222
+    second: bell_graphic_v003_179
+  - first:
+      213: -7999655952072204848
+    second: bell_graphic_v003_180
+  - first:
+      213: 1994798943299275806
+    second: bell_graphic_v003_181
+  - first:
+      213: -5778377877171313099
+    second: bell_graphic_v003_182
+  - first:
+      213: -3451833622224618667
+    second: bell_graphic_v003_183
+  - first:
+      213: -1294373843319643780
+    second: bell_graphic_v003_184
+  - first:
+      213: -663243861852218605
+    second: bell_graphic_v003_185
+  - first:
+      213: -8832692774647287513
+    second: bell_graphic_v003_186
+  - first:
+      213: 5035205153499624211
+    second: bell_graphic_v003_187
+  - first:
+      213: -4668603851833515795
+    second: bell_graphic_v003_188
+  - first:
+      213: -3519357155073662515
+    second: bell_graphic_v003_189
+  - first:
+      213: -8897728412945089219
+    second: bell_graphic_v003_190
+  - first:
+      213: 5393699178860763208
+    second: bell_graphic_v003_191
+  - first:
+      213: 8149395409683518793
+    second: bell_graphic_v003_192
+  - first:
+      213: 7308581947996127943
+    second: bell_graphic_v003_193
+  - first:
+      213: 9121373440804532342
+    second: bell_graphic_v003_194
+  - first:
+      213: -6965208235612484182
+    second: bell_graphic_v003_195
+  - first:
+      213: -297690828722183745
+    second: bell_graphic_v003_196
+  - first:
+      213: 2103192519966144982
+    second: bell_graphic_v003_197
+  - first:
+      213: -1739535094716717611
+    second: bell_graphic_v003_198
+  - first:
+      213: -8495975065247137477
+    second: bell_graphic_v003_199
+  - first:
+      213: 4269131462881138796
+    second: bell_graphic_v003_200
+  - first:
+      213: 8988510365865115435
+    second: bell_graphic_v003_201
+  - first:
+      213: 8663044701892891139
+    second: bell_graphic_v003_202
+  - first:
+      213: -5243215373822136502
+    second: bell_graphic_v003_203
+  - first:
+      213: 3332210020152893061
+    second: bell_graphic_v003_204
+  - first:
+      213: 5935746526345922413
+    second: bell_graphic_v003_205
+  - first:
+      213: -4420679104246158529
+    second: bell_graphic_v003_206
+  - first:
+      213: -7711613418357917123
+    second: bell_graphic_v003_207
+  - first:
+      213: -2701994511350880819
+    second: bell_graphic_v003_208
+  - first:
+      213: 1178358912020186991
+    second: bell_graphic_v003_209
+  - first:
+      213: -874166611163684478
+    second: bell_graphic_v003_210
+  - first:
+      213: 5607122709490977677
+    second: bell_graphic_v003_211
+  - first:
+      213: 7719371287466061924
+    second: bell_graphic_v003_212
+  - first:
+      213: -1239032358175451103
+    second: bell_graphic_v003_213
+  - first:
+      213: -5273114387813236511
+    second: bell_graphic_v003_214
+  - first:
+      213: 6543771387140092811
+    second: bell_graphic_v003_215
+  - first:
+      213: -9167108126648776234
+    second: bell_graphic_v003_216
+  - first:
+      213: -5317479504058373533
+    second: bell_graphic_v003_217
+  - first:
+      213: -6275418685174847207
+    second: bell_graphic_v003_218
+  - first:
+      213: 706738476374597010
+    second: bell_graphic_v003_219
+  - first:
+      213: -8641586371145368663
+    second: bell_graphic_v003_220
+  - first:
+      213: -8810247912259091575
+    second: bell_graphic_v003_221
+  - first:
+      213: 3800861008549535527
+    second: bell_graphic_v003_222
+  - first:
+      213: -6644714035032087737
+    second: bell_graphic_v003_223
+  - first:
+      213: 5538346675067463867
+    second: bell_graphic_v003_224
+  - first:
+      213: -2726838968497281841
+    second: bell_graphic_v003_225
+  - first:
+      213: -5835327636449995326
+    second: bell_graphic_v003_226
+  - first:
+      213: 5044328987081829580
+    second: bell_graphic_v003_227
+  - first:
+      213: -9030720373262980504
+    second: bell_graphic_v003_228
+  - first:
+      213: 7158343903908693545
+    second: bell_graphic_v003_229
+  - first:
+      213: 3599655017048928819
+    second: bell_graphic_v003_230
+  - first:
+      213: 6320722406668631049
+    second: bell_graphic_v003_231
+  - first:
+      213: 15882748462601273
+    second: bell_graphic_v003_232
+  - first:
+      213: 1062772183051605771
+    second: bell_graphic_v003_233
+  - first:
+      213: -2885159878942132445
+    second: bell_graphic_v003_234
+  - first:
+      213: -5094356792099519057
+    second: bell_graphic_v003_235
+  - first:
+      213: -7916425857324429982
+    second: bell_graphic_v003_236
+  - first:
+      213: -7197174129598317337
+    second: bell_graphic_v003_237
+  - first:
+      213: -472704791141227400
+    second: bell_graphic_v003_238
+  - first:
+      213: -5295188441187384731
+    second: bell_graphic_v003_239
+  - first:
+      213: -8278513500816875441
+    second: bell_graphic_v003_240
+  - first:
+      213: 9016370950752248881
+    second: bell_graphic_v003_241
+  - first:
+      213: -114346607494994702
+    second: bell_graphic_v003_242
+  - first:
+      213: -7614528584261925050
+    second: bell_graphic_v003_243
+  - first:
+      213: -2097010521460158053
+    second: bell_graphic_v003_244
+  - first:
+      213: -2871241552800907405
+    second: bell_graphic_v003_245
+  - first:
+      213: -8203896558536381673
+    second: bell_graphic_v003_246
+  - first:
+      213: -6166743241844095185
+    second: bell_graphic_v003_247
+  - first:
+      213: 710245292863972868
+    second: bell_graphic_v003_248
+  - first:
+      213: 3674306177809713811
+    second: bell_graphic_v003_249
+  - first:
+      213: -6362747529575713942
+    second: bell_graphic_v003_250
+  - first:
+      213: 7972862375564289589
+    second: bell_graphic_v003_251
+  - first:
+      213: 468545316184511237
+    second: bell_graphic_v003_252
+  - first:
+      213: -818317856008939218
+    second: bell_graphic_v003_253
+  - first:
+      213: -1161502291452158716
+    second: bell_graphic_v003_254
+  - first:
+      213: 6929862116266920877
+    second: bell_graphic_v003_255
+  - first:
+      213: 6503822789791199608
+    second: bell_graphic_v003_256
+  - first:
+      213: -2616983435092758951
+    second: bell_graphic_v003_257
+  - first:
+      213: 7117560565985334717
+    second: bell_graphic_v003_258
+  - first:
+      213: 2588073713298478011
+    second: bell_graphic_v003_259
+  - first:
+      213: 8008941007094248754
+    second: bell_graphic_v003_260
+  - first:
+      213: -2595469677911320965
+    second: bell_graphic_v003_261
+  - first:
+      213: 7093078242253242059
+    second: bell_graphic_v003_262
+  - first:
+      213: -400430455855966867
+    second: bell_graphic_v003_263
+  - first:
+      213: 9184332081946730253
+    second: bell_graphic_v003_264
+  - first:
+      213: 1512121717021058094
+    second: bell_graphic_v003_265
+  - first:
+      213: -3788663807457439889
+    second: bell_graphic_v003_266
+  - first:
+      213: -2947759008991377878
+    second: bell_graphic_v003_267
+  - first:
+      213: -2082627033477637092
+    second: bell_graphic_v003_268
+  - first:
+      213: 3621909161018042393
+    second: bell_graphic_v003_269
+  - first:
+      213: 2290343679941414131
+    second: bell_graphic_v003_270
+  - first:
+      213: 2019849079317317905
+    second: bell_graphic_v003_271
+  - first:
+      213: -5294194278577493744
+    second: bell_graphic_v003_272
+  - first:
+      213: 8852884405479572015
+    second: bell_graphic_v003_273
+  - first:
+      213: 1279573620711923409
+    second: bell_graphic_v003_274
+  - first:
+      213: 1446082720105186148
+    second: bell_graphic_v003_275
+  - first:
+      213: 5062580161444192344
+    second: bell_graphic_v003_276
+  - first:
+      213: 2300633807312244367
+    second: bell_graphic_v003_277
+  - first:
+      213: 5346463392845810152
+    second: bell_graphic_v003_278
+  - first:
+      213: 4384032457893906422
+    second: bell_graphic_v003_279
+  - first:
+      213: -8864099538420361756
+    second: bell_graphic_v003_280
+  - first:
+      213: -202116541185164664
+    second: bell_graphic_v003_281
+  - first:
+      213: -3660374933882885017
+    second: bell_graphic_v003_282
+  - first:
+      213: 4776157850343254068
+    second: bell_graphic_v003_283
+  - first:
+      213: 215262712090010056
+    second: bell_graphic_v003_284
+  - first:
+      213: -5796276681268726538
+    second: bell_graphic_v003_285
+  - first:
+      213: -2732438431831847650
+    second: bell_graphic_v003_286
+  - first:
+      213: 5639178932861444371
+    second: bell_graphic_v003_287
+  - first:
+      213: 7300016578673270672
+    second: bell_graphic_v003_288
+  - first:
+      213: 1000316036762224696
+    second: bell_graphic_v003_289
+  - first:
+      213: 3698108070251005499
+    second: bell_graphic_v003_290
+  - first:
+      213: -4014430042748580577
+    second: bell_graphic_v003_291
+  - first:
+      213: 5883950215512740617
+    second: bell_graphic_v003_292
+  - first:
+      213: 3762729133132275232
+    second: bell_graphic_v003_293
+  - first:
+      213: 5854433338913878182
+    second: bell_graphic_v003_294
+  - first:
+      213: -6823310084058533827
+    second: bell_graphic_v003_295
+  - first:
+      213: -2417346886523071164
+    second: bell_graphic_v003_296
+  - first:
+      213: -1896302551542548436
+    second: bell_graphic_v003_297
+  - first:
+      213: -6298635068433273451
+    second: bell_graphic_v003_298
+  - first:
+      213: 5932674679958662812
+    second: bell_graphic_v003_299
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bell_graphic_v003_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1596
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ed1733ebe16cd20800000000000000
+      internalID: 3298357579351187015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_1
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1596
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2586b0359a25fd0800000000000000
+      internalID: -2354633481022582082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_2
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1596
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf6e96305ea57fc0800000000000000
+      internalID: -3497697876046352457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_3
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1596
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd72ae6a621b65b0800000000000000
+      internalID: -5374181482004578876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_4
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1596
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ac5ddb03af25b80800000000000000
+      internalID: -8407382467097015799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_5
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1596
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6792b88299c49850800000000000000
+      internalID: 6382948203086649195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_6
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1596
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9011131daf219b550800000000000000
+      internalID: 6176989232376123657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_7
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 1596
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157ce5387a84383e0800000000000000
+      internalID: -2052717120850049199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_8
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1596
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c442258cfa0110e0800000000000000
+      internalID: -2301045854927960894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_9
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 1596
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d4170cec59a8fc0800000000000000
+      internalID: -3491813845847945880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_10
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1596
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d9e15dae8de3520800000000000000
+      internalID: 2683820931068894550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_11
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 1596
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7999e0b029d3a4510800000000000000
+      internalID: 1534106320533100951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_12
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 1596
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11031efbd08128bc0800000000000000
+      internalID: -3782434289704947695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_13
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 1596
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e94230e1e0f2a80800000000000000
+      internalID: -8489551250505556444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_14
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 1596
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9adbde387e406cb50800000000000000
+      internalID: 6612978495237504425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_15
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 1596
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914ee21305814e3e0800000000000000
+      internalID: -2025467199708273639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_16
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 1596
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a126cdd3c8fed90800000000000000
+      internalID: -7066275093002708340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_17
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 1596
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d6a6300496c25c0800000000000000
+      internalID: -4238897425606349512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_18
+      rect:
+        serializedVersion: 2
+        x: 3672
+        y: 1596
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63f6fa3fdb1af170800000000000000
+      internalID: 8212907516044440427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_19
+      rect:
+        serializedVersion: 2
+        x: 3876
+        y: 1596
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae05a96e1a0ce3c0800000000000000
+      internalID: -4329074016072167770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1482
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace42e605a6842160800000000000000
+      internalID: 6999867764183813834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_21
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1482
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e5a961d43d04110800000000000000
+      internalID: 1243225825199414816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_22
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1482
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8eaabe500fab8000800000000000000
+      internalID: 39317437886934666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_23
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1482
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8679648c42fd3cf0800000000000000
+      internalID: -270793992119421302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_24
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1482
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdaafd1173871000800000000000000
+      internalID: 6618446321855994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_25
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1482
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d6d952471bca3f0800000000000000
+      internalID: -888139914093433518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_26
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1482
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda3fbd8c2a1e2c30800000000000000
+      internalID: 4336432269863369438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_27
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 1482
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88082db6c4de35330800000000000000
+      internalID: 3698560631483564168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_28
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1482
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c932f522af026a630800000000000000
+      internalID: 3937871182872650652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_29
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 1482
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d4f1daeab83d230800000000000000
+      internalID: 3662424504327425379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_30
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1482
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e655e7896144e5410800000000000000
+      internalID: 1467685392407745902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_31
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 1482
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f77cb14d35c9ad0800000000000000
+      internalID: -2694186306610168025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_32
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 1482
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d6a14259f9f1d00800000000000000
+      internalID: 945649909675748722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_33
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 1482
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca982f77d36ef160800000000000000
+      internalID: 7061191042966002369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_34
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 1482
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd8823f07b979740800000000000000
+      internalID: 5158762807594356183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_35
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 1482
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2dd3549c5614230800000000000000
+      internalID: 3621287490507100856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_36
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 1482
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dffad6c60d6c6ec0800000000000000
+      internalID: -3572360528538173484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_37
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 1482
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa28921f78afe190800000000000000
+      internalID: -7930935155049878872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_38
+      rect:
+        serializedVersion: 2
+        x: 3672
+        y: 1482
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fe5f28dccaf3f40800000000000000
+      internalID: 5710472851194507071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_39
+      rect:
+        serializedVersion: 2
+        x: 3876
+        y: 1482
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69d83d8a6e6c11c0800000000000000
+      internalID: -4531625721126659729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1368
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fed259ead7224910800000000000000
+      internalID: 1820061020581977849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_41
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1368
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad86c8bf3ffbcb50800000000000000
+      internalID: 6614661126871748012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_42
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1368
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db49f672d8b124cc0800000000000000
+      internalID: -3728387248443386691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_43
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1368
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c40b73b1179810b0800000000000000
+      internalID: -5757686021311757115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_44
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1368
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c20f3868867df00800000000000000
+      internalID: 1141495957510171800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_45
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1368
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b194eefd80151e0800000000000000
+      internalID: -2210976184193705096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_46
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1368
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b9306e63b6647f0800000000000000
+      internalID: -628697214440203460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_47
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 1368
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085ffe8e35811baf0800000000000000
+      internalID: -382497744680389248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_48
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1368
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5f62eb908918aa0800000000000000
+      internalID: -6160475647653775942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_49
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 1368
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd8c326c25c5fe10800000000000000
+      internalID: 2230905984849317304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_50
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1368
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5520ab8271496510800000000000000
+      internalID: 1542836307575711070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_51
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 1368
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80196c0fb7e00cfb0800000000000000
+      internalID: -4629684491453558520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_52
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 1368
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef434497449060bc0800000000000000
+      internalID: -3817353444452977410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_53
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 1368
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9df03e57175661c0800000000000000
+      internalID: -4510822218888839782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_54
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 1368
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a26c76dd08b8e4e0800000000000000
+      internalID: -1952108068892548442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_55
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 1368
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bfa685652996810800000000000000
+      internalID: 1759098029013138326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_56
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 1368
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e13790ba412abb0800000000000000
+      internalID: -4926352317559398856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_57
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 1368
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06148e1a943b35660800000000000000
+      internalID: 7373434143765971296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_58
+      rect:
+        serializedVersion: 2
+        x: 3672
+        y: 1368
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca34aa48ac7bf51e0800000000000000
+      internalID: -2206843211951225940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_59
+      rect:
+        serializedVersion: 2
+        x: 3876
+        y: 1368
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c8d1d0e1d2947a0800000000000000
+      internalID: -6392528588983399423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1254
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b85beae8cacfcd30800000000000000
+      internalID: 4454001520776272054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_61
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1254
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eafed5615d5819c50800000000000000
+      internalID: 6670259673362198446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_62
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1254
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b705d7d6ef68c10800000000000000
+      internalID: 2055610026148526988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_63
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1254
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd56267eb1a6f11c0800000000000000
+      internalID: -4530786032032782883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_64
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1254
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503ac999c807936b0800000000000000
+      internalID: -5316094135959248123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_65
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1254
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab00961fa2c7ed620800000000000000
+      internalID: 2800812542151688378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_66
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1254
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd90de7d531275c00800000000000000
+      internalID: 889215966568581596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_67
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 1254
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff7777865104c120800000000000000
+      internalID: 2433071169838481399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_68
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1254
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd8595188277b090800000000000000
+      internalID: -8018814682706637351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_69
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 1254
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9acbfdd9c152200800000000000000
+      internalID: 154561226603276727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_70
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1254
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65648e1a62d319cc0800000000000000
+      internalID: -3706113782214801834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_71
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 1254
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a466826d13f91bc20800000000000000
+      internalID: 3220530244941801034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_72
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 1254
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a802eff486b7e9650800000000000000
+      internalID: 6241561821530955914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_73
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 1254
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c293ce54843da110800000000000000
+      internalID: 1273732012745921219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_74
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 1254
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4176f5c078dc8baf0800000000000000
+      internalID: -380328188600948972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_75
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 1254
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1330b1958803ca520800000000000000
+      internalID: 2714598037566194481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_76
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 1254
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a26a2180d8be370800000000000000
+      internalID: 8352924999700851317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_77
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 1254
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4de7ea59a671d00800000000000000
+      internalID: 943339838067627198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_78
+      rect:
+        serializedVersion: 2
+        x: 3672
+        y: 1254
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabb0aef8407d8f70800000000000000
+      internalID: 9191125873344953260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_79
+      rect:
+        serializedVersion: 2
+        x: 3876
+        y: 1254
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232066da14fc87560800000000000000
+      internalID: 7311821876024967730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1140
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3e29f6fc9a402b0800000000000000
+      internalID: -5619179726656314444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_81
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1140
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec929262f88fd1330800000000000000
+      internalID: 3683373363963177422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_82
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1140
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a278d52096c40d0800000000000000
+      internalID: -3437256956710540707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_83
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1140
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891807c7999e53810800000000000000
+      internalID: 1744557276102951320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_84
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1140
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943c25258da675190800000000000000
+      internalID: -7973787137909537975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_85
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1140
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251d70a253e6a71a0800000000000000
+      internalID: -6811010311826976430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_86
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1140
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a7a335a63d5d6f0800000000000000
+      internalID: -660389316723574171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_87
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 1140
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd752b44dcf76a9e0800000000000000
+      internalID: -1610459297140811812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_88
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1140
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4ea1e8a4afced20800000000000000
+      internalID: 3309295024329123052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_89
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 1140
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6987e6cb3b486e630800000000000000
+      internalID: 3955995230186928278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_90
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1140
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3884b66098cd6b980800000000000000
+      internalID: -8523382763675760509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_91
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 1140
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c925ca1f64af2a0800000000000000
+      internalID: -6702967091595404208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_92
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 1140
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474ea7fded14398b0800000000000000
+      internalID: -5146697523666426764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_93
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 1140
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac6a27188e89e630800000000000000
+      internalID: 3956850462777044136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_94
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 1140
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdf52842a81ab3c0800000000000000
+      internalID: -4343131805371204163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_95
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 1140
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7228951b8fc318bd0800000000000000
+      internalID: -2629753668582669785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_96
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 1140
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a87039ccf133d980800000000000000
+      internalID: -8515407508650559328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_97
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 1140
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01dd2543fedf9be60800000000000000
+      internalID: 7978687418680401168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_98
+      rect:
+        serializedVersion: 2
+        x: 3672
+        y: 1140
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b14a8c93c7e3dc0800000000000000
+      internalID: -3657349259757085844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_99
+      rect:
+        serializedVersion: 2
+        x: 3876
+        y: 1140
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b307bc867fe18d90800000000000000
+      internalID: -7097128245313207370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1026
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f54f4dbf7dfa4500800000000000000
+      internalID: 381395843544991218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_101
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1026
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abccef7527600350800000000000000
+      internalID: 5980893715905694625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_102
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1026
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec62b4784b99b7e50800000000000000
+      internalID: 6808204262343648974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_103
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1026
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dec530908d68c020800000000000000
+      internalID: 2362258403498512088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_104
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1026
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0445c9938e1b0e960800000000000000
+      internalID: 7629293379722695744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_105
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1026
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579e4857a3e1045e0800000000000000
+      internalID: -1927507404085991051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_106
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1026
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ef3d12745412d90800000000000000
+      internalID: -7124336963710878197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_107
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 1026
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7334f75f8c5deba00800000000000000
+      internalID: 774291245043237687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_108
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1026
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5530ce6b08bbfe0800000000000000
+      internalID: -1172201754867837455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_109
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 1026
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66fac693323dfdb0800000000000000
+      internalID: -4756590434278771091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_110
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1026
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1adc05085c7b480800000000000000
+      internalID: -8883414585062874715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_111
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 1026
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c4c9cba8567bf70800000000000000
+      internalID: 9202936010099149942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_112
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 1026
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9543e1d73983ce6b0800000000000000
+      internalID: -5265771658192472999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_113
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 1026
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33de5d989ceca26e0800000000000000
+      internalID: -1861448130968031949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_114
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 1026
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd87f2d6561eef60800000000000000
+      internalID: 8065408544829574584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_115
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 1026
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566d1e8ef96316000800000000000000
+      internalID: 27363133175748197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_116
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 1026
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16f004c124060140800000000000000
+      internalID: 4685437005394408987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_117
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 1026
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebaa072f615d18c0800000000000000
+      internalID: -4026972953961124885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_118
+      rect:
+        serializedVersion: 2
+        x: 3672
+        y: 1026
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad58f96c922c2c9f0800000000000000
+      internalID: -449583528101837350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_119
+      rect:
+        serializedVersion: 2
+        x: 3876
+        y: 1026
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1254733b2c16d5720800000000000000
+      internalID: 2836530829171574049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 912
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d5e812562416630800000000000000
+      internalID: 3918486152911150431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_121
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 912
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9b3bec9f2ca5550800000000000000
+      internalID: 6150442619298363854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_122
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 912
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa32179bdf3c52d20800000000000000
+      internalID: 3253221800350393263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_123
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 912
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6986f2a182a510840800000000000000
+      internalID: 5188527373992028310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_124
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 912
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbee84a1dd3d59fb0800000000000000
+      internalID: -4641570894353207620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_125
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 912
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c38aa4254b51690800000000000000
+      internalID: -7631995727976580007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_126
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 912
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da64b5aa652446400800000000000000
+      internalID: 316450813815506605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_127
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 912
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe732e2709b890c0800000000000000
+      internalID: -4568698381477380422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_128
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 912
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08141c6805645a3f0800000000000000
+      internalID: -890228039663664768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_129
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 912
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5a7656f61653860800000000000000
+      internalID: 7509015084780725732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_130
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 912
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cdaff6cb1dd48f30800000000000000
+      internalID: 4577026232687766985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_131
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 912
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85a72638439c13e0800000000000000
+      internalID: -2081626989396515443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_132
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 912
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5512cea3608829560800000000000000
+      internalID: 7319061904770212181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_133
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 912
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e39b8d99bf7595a0800000000000000
+      internalID: -6515160850732706844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_134
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 912
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ef2ddc9b2536fe0800000000000000
+      internalID: -1197022117974835598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_135
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 912
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c372ba30d38d74b00800000000000000
+      internalID: 812856014329816892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_136
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 912
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b09c31dbdb3d8970800000000000000
+      internalID: 8758722665599766713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_137
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 912
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849d5405110b84d30800000000000000
+      internalID: 4415973023044458824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_138
+      rect:
+        serializedVersion: 2
+        x: 3672
+        y: 912
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a664f042590a220800000000000000
+      internalID: 2495158175670889090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_139
+      rect:
+        serializedVersion: 2
+        x: 3876
+        y: 912
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51256ec9b4b6f290800000000000000
+      internalID: -7856893789776567974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 798
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df715f2c55d3a2530800000000000000
+      internalID: 3830941871584385021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_141
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 798
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b5ec2af898794e0800000000000000
+      internalID: -1974958661573911749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_142
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 798
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e4367c98bf01010800000000000000
+      internalID: 1157701673408482861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_143
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 798
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28aff51912f7b2860800000000000000
+      internalID: 7506232986092698242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_144
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 798
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f423971578f5580800000000000000
+      internalID: -8836195159882182878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_145
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 798
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052d25228f791a510800000000000000
+      internalID: 1558694038030438992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_146
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 798
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf53ad039ca7ebef0800000000000000
+      internalID: -90499937974209028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_147
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 798
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7033345b22b10a6e0800000000000000
+      internalID: -1828431612828503289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_148
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 798
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3517da1b467f6b970800000000000000
+      internalID: 8770469336200343891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_149
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 798
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cddf59198aa5931b0800000000000000
+      internalID: -5676406175280267812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_150
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 798
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf227ec45933d180800000000000000
+      internalID: -9091860186327273546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_151
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 798
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887bd4144544863f0800000000000000
+      internalID: -907400196251601016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_152
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 798
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44208c8e3cc3a1d0800000000000000
+      internalID: -3340601929561529266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_153
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 798
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac254d389cc7ecd0800000000000000
+      internalID: -2528827711510205274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_154
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 798
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6de0e3f28a56e300800000000000000
+      internalID: 281011545241087343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_155
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 798
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e3654811d762d30800000000000000
+      internalID: 4406346799616769608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_156
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 798
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb4cb6aa4568ef20800000000000000
+      internalID: 3452120485678828467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_157
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 798
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e553e1b8eafc92eb0800000000000000
+      internalID: -4744032383892834978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_158
+      rect:
+        serializedVersion: 2
+        x: 3672
+        y: 798
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c166efebb48c1a90800000000000000
+      internalID: -7341847349802147388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_159
+      rect:
+        serializedVersion: 2
+        x: 3876
+        y: 798
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7cdde9d3b160b960800000000000000
+      internalID: 7615694394966793341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 684
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddfe10172ae10ece0800000000000000
+      internalID: -1378067802945884195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_161
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 684
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866b4094ad6c55190800000000000000
+      internalID: -7974248924359379352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_162
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 684
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0182c3d0b6a4044d0800000000000000
+      internalID: -3152437915515344880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_163
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 684
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eece999ca34455d10800000000000000
+      internalID: 2113670619401415918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_164
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 684
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12402df9d4d80f130800000000000000
+      internalID: 3598531466802365473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_165
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 684
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932ed6fd116120da0800000000000000
+      internalID: -5980193089175821767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_166
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 684
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e70e193580408c0800000000000000
+      internalID: -4034090211194405244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_167
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 684
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2446dceab9b2f50800000000000000
+      internalID: 6857746032674226905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_168
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 684
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c20df3c1ff4ceb40800000000000000
+      internalID: 5470835547142161091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_169
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 684
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96062743d4beff9a0800000000000000
+      internalID: -6196975845413592983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_170
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 684
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38100e7c4b5894a90800000000000000
+      internalID: -7329179907074817661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_171
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 684
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589f1f98023b975e0800000000000000
+      internalID: -1911299614507402875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_172
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 684
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e47480821c2f760800000000000000
+      internalID: 7490261507952299560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_173
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 684
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309165622a95795a0800000000000000
+      internalID: -6514639783005382397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_174
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 684
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3dbc1cef4da3080800000000000000
+      internalID: -9206812297567415351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_175
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 684
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c51c8fbf24b8cc60800000000000000
+      internalID: 7838713268608439751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_176
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 684
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e28201a32dd15a0800000000000000
+      internalID: -6548847136305828200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_177
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 684
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463193fbdd774f3d0800000000000000
+      internalID: -3173780043109690524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_178
+      rect:
+        serializedVersion: 2
+        x: 3672
+        y: 684
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7474eba9c1e685b90800000000000000
+      internalID: -7252926130745882809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_179
+      rect:
+        serializedVersion: 2
+        x: 3876
+        y: 684
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3407b554a128a40800000000000000
+      internalID: 5368882590968202222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 570
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd956bab438bf090800000000000000
+      internalID: -7999655952072204848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_181
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 570
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c8dade113feab10800000000000000
+      internalID: 1994798943299275806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_182
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 570
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5366a359fe31fcfa0800000000000000
+      internalID: -5778377877171313099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_183
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 570
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b3d83fb9f9810d0800000000000000
+      internalID: -3451833622224618667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_184
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 570
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71206ee8d5790ee0800000000000000
+      internalID: -1294373843319643780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_185
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 570
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b17deb83fabc6f0800000000000000
+      internalID: -663243861852218605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_186
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 570
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7213df418b8fb6580800000000000000
+      internalID: -8832692774647287513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_187
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 570
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313bf81d864a0e540800000000000000
+      internalID: 5035205153499624211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_188
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 570
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de061763889c53fb0800000000000000
+      internalID: -4668603851833515795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_189
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 570
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1ea16505bb82fc0800000000000000
+      internalID: -3519357155073662515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_190
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 570
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3df18e862be48480800000000000000
+      internalID: -8897728412945089219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_191
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 570
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848df4d73d44ada40800000000000000
+      internalID: 5393699178860763208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_192
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 570
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9459260a2f7781170800000000000000
+      internalID: 8149395409683518793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_193
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 570
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c244262f8c4d6560800000000000000
+      internalID: 7308581947996127943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_194
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 570
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67036da31d0a59e70800000000000000
+      internalID: 9121373440804532342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_195
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 570
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad41b1530c965f90800000000000000
+      internalID: -6965208235612484182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_196
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 570
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb16f1db4c36edbf0800000000000000
+      internalID: -297690828722183745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_197
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 570
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d937d6247a003d10800000000000000
+      internalID: 2103192519966144982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_198
+      rect:
+        serializedVersion: 2
+        x: 3672
+        y: 570
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5a51d3c0eebd7e0800000000000000
+      internalID: -1739535094716717611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_199
+      rect:
+        serializedVersion: 2
+        x: 3876
+        y: 570
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b314e5711bb381a80800000000000000
+      internalID: -8495975065247137477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_200
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68597852700f3b30800000000000000
+      internalID: 4269131462881138796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_201
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 456
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f7e49fd8a9dbc70800000000000000
+      internalID: 8988510365865115435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_202
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 456
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302d7a1f141593870800000000000000
+      internalID: 8663044701892891139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_203
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 456
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4fe672b56b5c37b0800000000000000
+      internalID: -5243215373822136502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_204
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 456
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ed538cb536e3e20800000000000000
+      internalID: 3332210020152893061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_205
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 456
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d678b9b4402006250800000000000000
+      internalID: 5935746526345922413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_206
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 456
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b6a65c6c796a2c0800000000000000
+      internalID: -4420679104246158529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_207
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 456
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3af3a13478daf490800000000000000
+      internalID: -7711613418357917123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_208
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 456
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc520e5ce46908ad0800000000000000
+      internalID: -2701994511350880819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_209
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 456
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6701e0ff2f5a5010800000000000000
+      internalID: 1178358912020186991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_210
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 456
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281e41349165ed3f0800000000000000
+      internalID: -874166611163684478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_211
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 456
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b4c3f756080dd40800000000000000
+      internalID: 5607122709490977677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_212
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 456
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460b3c67947b02b60800000000000000
+      internalID: 7719371287466061924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_213
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 456
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128dcb982a21ecee0800000000000000
+      internalID: -1239032358175451103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_214
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 456
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e00466076222d6b0800000000000000
+      internalID: -5273114387813236511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_215
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 456
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83b9ddf76520da50800000000000000
+      internalID: 6543771387140092811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_216
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 456
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9c08d6ab3e7c080800000000000000
+      internalID: -9167108126648776234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_217
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 456
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a2e2470948436b0800000000000000
+      internalID: -5317479504058373533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_218
+      rect:
+        serializedVersion: 2
+        x: 3672
+        y: 456
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919ed4554fb39e8a0800000000000000
+      internalID: -6275418685174847207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_219
+      rect:
+        serializedVersion: 2
+        x: 3876
+        y: 456
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d986956e6dec900800000000000000
+      internalID: 706738476374597010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_220
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 342
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abf5040bfae21880800000000000000
+      internalID: -8641586371145368663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_221
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 342
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9838ba6d336bbb580800000000000000
+      internalID: -8810247912259091575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_222
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 342
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f5a3f03fe5fb430800000000000000
+      internalID: 3800861008549535527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_223
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 342
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7432cd35acb39c3a0800000000000000
+      internalID: -6644714035032087737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_224
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 342
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8ac5225f82cdc40800000000000000
+      internalID: 5538346675067463867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_225
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 342
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4e603d762582ad0800000000000000
+      internalID: -2726838968497281841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_226
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 342
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5d0697e60c40fa0800000000000000
+      internalID: -5835327636449995326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_227
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 342
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccce73ddc7e010640800000000000000
+      internalID: 5044328987081829580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_228
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 342
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ae6c5daaf6ca280800000000000000
+      internalID: -9030720373262980504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_229
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 342
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9268f84aadb875360800000000000000
+      internalID: 7158343903908693545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_230
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 342
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332772d8a2b84f130800000000000000
+      internalID: 3599655017048928819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_231
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 342
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90cf55d4a87b7b750800000000000000
+      internalID: 6320722406668631049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_232
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 342
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9349b2c864d683000800000000000000
+      internalID: 15882748462601273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_233
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 342
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0715ff6ba9bfbe00800000000000000
+      internalID: 1062772183051605771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_234
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 342
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327f177506ad5f7d0800000000000000
+      internalID: -2885159878942132445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_235
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 342
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa54fc71d753d49b0800000000000000
+      internalID: -5094356792099519057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_236
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 342
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26dc57330a4332290800000000000000
+      internalID: -7916425857324429982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_237
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 342
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec39aae2408e1c90800000000000000
+      internalID: -7197174129598317337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_238
+      rect:
+        serializedVersion: 2
+        x: 3672
+        y: 342
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874e6683f7d9079f0800000000000000
+      internalID: -472704791141227400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_239
+      rect:
+        serializedVersion: 2
+        x: 3876
+        y: 342
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5628548fa26b386b0800000000000000
+      internalID: -5295188441187384731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40e88b15dfcc1d80800000000000000
+      internalID: -8278513500816875441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_241
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 228
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1342db2eb95902d70800000000000000
+      internalID: 9016370950752248881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_242
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 228
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f46df6cd52c96ef0800000000000000
+      internalID: -114346607494994702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_243
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 228
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647820b9892c35690800000000000000
+      internalID: -7614528584261925050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_244
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 228
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b915c1a8a0ce5e2e0800000000000000
+      internalID: -2097010521460158053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_245
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 228
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ff5fc250d4728d0800000000000000
+      internalID: -2871241552800907405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_246
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 228
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ba36ecb87e52e80800000000000000
+      internalID: -8203896558536381673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_247
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 228
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2787d0c1b35b6aa0800000000000000
+      internalID: -6166743241844095185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_248
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 228
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406ec80b45c4bd900800000000000000
+      internalID: 710245292863972868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_249
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 228
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a0f5c5002cdf230800000000000000
+      internalID: 3674306177809713811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_250
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 228
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63352845daf2b7a0800000000000000
+      internalID: -6362747529575713942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_251
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 228
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536269aa61c45ae60800000000000000
+      internalID: 7972862375564289589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_252
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 228
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503d95c8b7b908600800000000000000
+      internalID: 468545316184511237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_253
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 228
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e295a3fde30c4a4f0800000000000000
+      internalID: -818317856008939218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_254
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 228
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d1130e1d381efe0800000000000000
+      internalID: -1161502291452158716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_255
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 228
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabc686f0e0db2060800000000000000
+      internalID: 6929862116266920877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_256
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 228
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871389b5e58324a50800000000000000
+      internalID: 6503822789791199608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_257
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 228
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ee6306e6b9eabd0800000000000000
+      internalID: -2616983435092758951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_258
+      rect:
+        serializedVersion: 2
+        x: 3672
+        y: 228
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db552e2df97a6c260800000000000000
+      internalID: 7117560565985334717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_259
+      rect:
+        serializedVersion: 2
+        x: 3876
+        y: 228
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb39ead745faae320800000000000000
+      internalID: 2588073713298478011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_260
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23579eaa969752f60800000000000000
+      internalID: 8008941007094248754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_261
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 114
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b765cce441a0bfbd0800000000000000
+      internalID: -2595469677911320965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_262
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 114
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce7e81a41daf6260800000000000000
+      internalID: 7093078242253242059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_263
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 114
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6515793f92617af0800000000000000
+      internalID: -400430455855966867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_264
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 114
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f98ab2e5d457f70800000000000000
+      internalID: 9184332081946730253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_265
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 114
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24a138a0b22cf410800000000000000
+      internalID: 1512121717021058094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_266
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 114
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6fce1f1756fb6bc0800000000000000
+      internalID: -3788663807457439889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_267
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 114
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a268c999cc47717d0800000000000000
+      internalID: -2947759008991377878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_268
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 114
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c90fd4fb50913e0800000000000000
+      internalID: -2082627033477637092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_269
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 114
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918a637313b934230800000000000000
+      internalID: 3621909161018042393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_270
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 114
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc0870317fe8cf10800000000000000
+      internalID: 2290343679941414131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_271
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 114
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119cb983902f70c10800000000000000
+      internalID: 2019849079317317905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_272
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 114
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019ab7d7a5e3786b0800000000000000
+      internalID: -5294194278577493744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_273
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 114
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2284325673cbda70800000000000000
+      internalID: 8852884405479572015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_274
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 114
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de9e76bd65f1c110800000000000000
+      internalID: 1279573620711923409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_275
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 114
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46343bf7294811410800000000000000
+      internalID: 1446082720105186148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_276
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 114
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85022d985d5e14640800000000000000
+      internalID: 5062580161444192344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_277
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 114
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ec91b224e7def10800000000000000
+      internalID: 2300633807312244367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_278
+      rect:
+        serializedVersion: 2
+        x: 3672
+        y: 114
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e944370124723a40800000000000000
+      internalID: 5346463392845810152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_279
+      rect:
+        serializedVersion: 2
+        x: 3876
+        y: 114
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f78c88fa4637dc30800000000000000
+      internalID: 4384032457893906422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_280
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e510ce0f646cf480800000000000000
+      internalID: -8864099538420361756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_281
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a7d6f9310f13df0800000000000000
+      internalID: -202116541185164664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_282
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 0
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76caa21246cb33dc0800000000000000
+      internalID: -3660374933882885017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_283
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 0
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43827ec7242584240800000000000000
+      internalID: 4776157850343254068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_284
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 0
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1238fcb44ccf200800000000000000
+      internalID: 215262712090010056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_285
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 0
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4f811811d7f8fa0800000000000000
+      internalID: -5796276681268726538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_286
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 0
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d890c29bd641ad0800000000000000
+      internalID: -2732438431831847650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_287
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 0
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311a21e9c53624e40800000000000000
+      internalID: 5639178932861444371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_288
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 0
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f5842b66ede4560800000000000000
+      internalID: 7300016578673270672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_289
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 0
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838c652b226d1ed00800000000000000
+      internalID: 1000316036762224696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_290
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 0
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36015c42b1525330800000000000000
+      internalID: 3698108070251005499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_291
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 0
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d805e3521e948c0800000000000000
+      internalID: -4014430042748580577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_292
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 0
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90358b7eb8df7a150800000000000000
+      internalID: 5883950215512740617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_293
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 0
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02edc56f536e73430800000000000000
+      internalID: 3762729133132275232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_294
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 0
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a07a278a102f3150800000000000000
+      internalID: 5854433338913878182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_295
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 0
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30b95741abbe41a0800000000000000
+      internalID: -6823310084058533827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_296
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 0
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44555e970dbd37ed0800000000000000
+      internalID: -2417346886523071164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_297
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 0
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28b3ac50eafea5e0800000000000000
+      internalID: -1896302551542548436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_298
+      rect:
+        serializedVersion: 2
+        x: 3672
+        y: 0
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d6730e6c0c698a0800000000000000
+      internalID: -6298635068433273451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bell_graphic_v003_299
+      rect:
+        serializedVersion: 2
+        x: 3876
+        y: 0
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ee3e25038155250800000000000000
+      internalID: 5932674679958662812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: adce936f206819c45afe8896fdbb5e83
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

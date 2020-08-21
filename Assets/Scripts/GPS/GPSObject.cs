@@ -10,19 +10,19 @@ public class GPSObject : MonoBehaviour{
   public Text DebugText;
   public Vector3d GpsPosition;
   public GPSManager GPSManager;
-  public float maxScale = 75;
-  public float minScale = 5;
+  public float maxHeight = 350;
+  public float minHeight = 100;
 
   void Start () {}
 
-  //Calculates a value to scale by based off of ditance to the object
-  private float ScaleOnDistance(Vector3d offset){
+  //Calculates the target height based off of distance to the object
+  private float HeightOnDistance(Vector3d offset){
     double dist = (float)Mathf.Sqrt(Mathf.Pow(Mathf.Abs((float)offset.X), 2) + Mathf.Pow(Mathf.Abs((float)offset.Z), 2));
-    float scale = (float)(dist / 5f);
+    float height = (float)(dist / 10f);
     //end cases
-    if(scale < minScale) scale = minScale;
-    if(scale > maxScale) scale = maxScale;
-    return scale;
+    if(height < minHeight) height = minHeight;
+    if(height > maxHeight) height = maxHeight;
+    return height;
   }
 
   private bool set = false;
@@ -56,6 +56,8 @@ public class GPSObject : MonoBehaviour{
 
        set = !set;
      }
+
+     transform.position = new Vector3(transform.position.x, HeightOnDistance(new Vector3d(transform.position)), transform.position.z);
 
      if(DebugText != null) DebugText.text = "OBJECT:\n\tPOS " + transform.position + "\n\tGPS " + GpsPosition + "\n\tSET: " + set + "\n\tINIT HEADING: " + initHeading;
 	}

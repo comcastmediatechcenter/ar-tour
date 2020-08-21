@@ -12,21 +12,30 @@ public class PermissionFixer : MonoBehaviour{
    * this additional code on iOS.
    */
   void Start(){
-    #if PLATFORM_ANDROID
-    if(!Permission.HasUserAuthorizedPermission(Permission.Camera)){
-      Permission.RequestUserPermission(Permission.Camera);
-    }
-    if(!Permission.HasUserAuthorizedPermission(Permission.FineLocation)){
-      Permission.RequestUserPermission(Permission.FineLocation);
-    }
-    if(!Permission.HasUserAuthorizedPermission(Permission.CoarseLocation)){
-      Permission.RequestUserPermission(Permission.CoarseLocation);
-    }
-    #endif
+    StartCoroutine(PermissionForcer());
   }
 
   // Update is called once per frame
   void Update(){
 
+  }
+
+
+  private IEnumerator PermissionForcer(){
+    #if PLATFORM_ANDROID
+    if(!Permission.HasUserAuthorizedPermission(Permission.Camera)){
+      Permission.RequestUserPermission(Permission.Camera);
+    }
+    yield return new WaitForSeconds(1f);
+    if(!Permission.HasUserAuthorizedPermission(Permission.FineLocation)){
+      Permission.RequestUserPermission(Permission.FineLocation);
+    }
+    yield return new WaitForSeconds(1f);
+    if(!Permission.HasUserAuthorizedPermission(Permission.CoarseLocation)){
+      Permission.RequestUserPermission(Permission.CoarseLocation);
+    }
+    #endif
+    yield return new WaitForSeconds(1f);
+    Debug.Log("PERMISSIONS: \n\tCAMERA: " + Permission.HasUserAuthorizedPermission(Permission.Camera) + "\n\t LOC: " + (Permission.HasUserAuthorizedPermission(Permission.FineLocation) || Permission.HasUserAuthorizedPermission(Permission.CoarseLocation)));
   }
 }

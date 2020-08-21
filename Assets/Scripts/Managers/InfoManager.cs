@@ -59,6 +59,7 @@ public class InfoManager : MonoBehaviour{
   private IEnumerator CheckRanges(){
     lastInSphere = new bool[pois.data.Length];
     for(int i = 0; i < lastInSphere.Length; i++) lastInSphere[i] = false;
+    yield return new WaitForSeconds(0.5f);
 
     while(running){
       for(int i = 0; i < pois.data.Length; i++){

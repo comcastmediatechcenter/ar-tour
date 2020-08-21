@@ -187,7 +187,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 257649a460907f94fbd9d6641e0761b9, type: 3}
+  m_Sprite: {fileID: 21300000, guid: a11e5ed230ac308498b9d5dff9bc8f62, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -252,7 +252,6 @@ MonoBehaviour:
   InfoText: {fileID: 7400420647872652456}
   PromptText: {fileID: 7400420647777492378}
   ExitButton: {fileID: 7400420647078819374}
-  ARCamera: {fileID: 0}
   GPSManager: {fileID: 0}
 --- !u!1 &7400420647777492377
 GameObject:
