@@ -1,0 +1,5888 @@
+fileFormatVersion: 2
+guid: 6468c8bdd05b2d643a18a7edaf09f549
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -582440667751581489
+    second: tiv4_full_RED_0
+  - first:
+      213: -4476311003585849990
+    second: tiv4_full_RED_1
+  - first:
+      213: 3407013015898440731
+    second: tiv4_full_RED_2
+  - first:
+      213: -1503127634100495347
+    second: tiv4_full_RED_3
+  - first:
+      213: 8672215731359134583
+    second: tiv4_full_RED_4
+  - first:
+      213: 3280365293023282475
+    second: tiv4_full_RED_5
+  - first:
+      213: 7367760525439655469
+    second: tiv4_full_RED_6
+  - first:
+      213: 1225576115992986569
+    second: tiv4_full_RED_7
+  - first:
+      213: 8773313421708666777
+    second: tiv4_full_RED_8
+  - first:
+      213: -3009851799754602818
+    second: tiv4_full_RED_9
+  - first:
+      213: 8031222215645121763
+    second: tiv4_full_RED_10
+  - first:
+      213: 4907865669342763907
+    second: tiv4_full_RED_11
+  - first:
+      213: -6316941524327590596
+    second: tiv4_full_RED_12
+  - first:
+      213: -2189510894445443212
+    second: tiv4_full_RED_13
+  - first:
+      213: 3227726647880780451
+    second: tiv4_full_RED_14
+  - first:
+      213: 8154525386877479086
+    second: tiv4_full_RED_15
+  - first:
+      213: -9184783259607534184
+    second: tiv4_full_RED_16
+  - first:
+      213: -5054869668029392079
+    second: tiv4_full_RED_17
+  - first:
+      213: -6704388235549492275
+    second: tiv4_full_RED_18
+  - first:
+      213: 2465004453740136391
+    second: tiv4_full_RED_19
+  - first:
+      213: -3657598104439456684
+    second: tiv4_full_RED_20
+  - first:
+      213: -4482703420804607678
+    second: tiv4_full_RED_21
+  - first:
+      213: 3832034191538880381
+    second: tiv4_full_RED_22
+  - first:
+      213: -3801172878892065902
+    second: tiv4_full_RED_23
+  - first:
+      213: -3902092495314015625
+    second: tiv4_full_RED_24
+  - first:
+      213: 7255994695643582076
+    second: tiv4_full_RED_25
+  - first:
+      213: 8210329053990597100
+    second: tiv4_full_RED_26
+  - first:
+      213: -8704563917933075667
+    second: tiv4_full_RED_27
+  - first:
+      213: -3524321699150296144
+    second: tiv4_full_RED_28
+  - first:
+      213: 5785039206874202267
+    second: tiv4_full_RED_29
+  - first:
+      213: -7031886349164425647
+    second: tiv4_full_RED_30
+  - first:
+      213: 1227371397227764163
+    second: tiv4_full_RED_31
+  - first:
+      213: 2153561108333266522
+    second: tiv4_full_RED_32
+  - first:
+      213: 6320504128110951665
+    second: tiv4_full_RED_33
+  - first:
+      213: 861250345417646206
+    second: tiv4_full_RED_34
+  - first:
+      213: 4980142470123892094
+    second: tiv4_full_RED_35
+  - first:
+      213: 991111043497037453
+    second: tiv4_full_RED_36
+  - first:
+      213: 2105111102472062190
+    second: tiv4_full_RED_37
+  - first:
+      213: 515578227283957574
+    second: tiv4_full_RED_38
+  - first:
+      213: 49478589458652570
+    second: tiv4_full_RED_39
+  - first:
+      213: -4216391531516765693
+    second: tiv4_full_RED_40
+  - first:
+      213: -5527023788111426413
+    second: tiv4_full_RED_41
+  - first:
+      213: -6274075065594946260
+    second: tiv4_full_RED_42
+  - first:
+      213: -7022695284369243814
+    second: tiv4_full_RED_43
+  - first:
+      213: 2648932582000914784
+    second: tiv4_full_RED_44
+  - first:
+      213: 8291553771286691522
+    second: tiv4_full_RED_45
+  - first:
+      213: 8007899868805785129
+    second: tiv4_full_RED_46
+  - first:
+      213: -3002062027615015976
+    second: tiv4_full_RED_47
+  - first:
+      213: -2566437638512855007
+    second: tiv4_full_RED_48
+  - first:
+      213: 7392754877510569995
+    second: tiv4_full_RED_49
+  - first:
+      213: 6261476971112931893
+    second: tiv4_full_RED_50
+  - first:
+      213: -7703887469999584274
+    second: tiv4_full_RED_51
+  - first:
+      213: 6582704760507318296
+    second: tiv4_full_RED_52
+  - first:
+      213: 405513594301110557
+    second: tiv4_full_RED_53
+  - first:
+      213: -3430733288722815791
+    second: tiv4_full_RED_54
+  - first:
+      213: -7914021799947106306
+    second: tiv4_full_RED_55
+  - first:
+      213: -7764010602786035127
+    second: tiv4_full_RED_56
+  - first:
+      213: 6597150922855560511
+    second: tiv4_full_RED_57
+  - first:
+      213: -6736454224564620067
+    second: tiv4_full_RED_58
+  - first:
+      213: 8931830825366708348
+    second: tiv4_full_RED_59
+  - first:
+      213: -6713852863345464060
+    second: tiv4_full_RED_60
+  - first:
+      213: -6260456968280602125
+    second: tiv4_full_RED_61
+  - first:
+      213: -4879572997862894472
+    second: tiv4_full_RED_62
+  - first:
+      213: 1452549994450695706
+    second: tiv4_full_RED_63
+  - first:
+      213: 1069490990906555682
+    second: tiv4_full_RED_64
+  - first:
+      213: -9029503989332374656
+    second: tiv4_full_RED_65
+  - first:
+      213: -6141378907850259317
+    second: tiv4_full_RED_66
+  - first:
+      213: 5057717045776315450
+    second: tiv4_full_RED_67
+  - first:
+      213: 1036435505249490410
+    second: tiv4_full_RED_68
+  - first:
+      213: -6589974568794944792
+    second: tiv4_full_RED_69
+  - first:
+      213: 8995119995623843792
+    second: tiv4_full_RED_70
+  - first:
+      213: 6166788223449311423
+    second: tiv4_full_RED_71
+  - first:
+      213: -5106811865256527258
+    second: tiv4_full_RED_72
+  - first:
+      213: -5003177247183541137
+    second: tiv4_full_RED_73
+  - first:
+      213: 2591779428366821373
+    second: tiv4_full_RED_74
+  - first:
+      213: -1094000293761478045
+    second: tiv4_full_RED_75
+  - first:
+      213: 3359839488433466848
+    second: tiv4_full_RED_76
+  - first:
+      213: 6897124055739955340
+    second: tiv4_full_RED_77
+  - first:
+      213: 1985732627763672283
+    second: tiv4_full_RED_78
+  - first:
+      213: 5942028542193750801
+    second: tiv4_full_RED_79
+  - first:
+      213: -636586188720761078
+    second: tiv4_full_RED_80
+  - first:
+      213: 2127444255301894177
+    second: tiv4_full_RED_81
+  - first:
+      213: -116471762163999871
+    second: tiv4_full_RED_82
+  - first:
+      213: 6200266989387271301
+    second: tiv4_full_RED_83
+  - first:
+      213: 3797873289022107859
+    second: tiv4_full_RED_84
+  - first:
+      213: -2393169434452906854
+    second: tiv4_full_RED_85
+  - first:
+      213: 8333952939178645236
+    second: tiv4_full_RED_86
+  - first:
+      213: -4183511800263093406
+    second: tiv4_full_RED_87
+  - first:
+      213: 7505014600558984689
+    second: tiv4_full_RED_88
+  - first:
+      213: -663362678745862069
+    second: tiv4_full_RED_89
+  - first:
+      213: 7606414122580451852
+    second: tiv4_full_RED_90
+  - first:
+      213: -5805735329676897604
+    second: tiv4_full_RED_91
+  - first:
+      213: -3799738559342048756
+    second: tiv4_full_RED_92
+  - first:
+      213: 8693035366437482831
+    second: tiv4_full_RED_93
+  - first:
+      213: 4257506868971679097
+    second: tiv4_full_RED_94
+  - first:
+      213: 6234942203197448832
+    second: tiv4_full_RED_95
+  - first:
+      213: -4717334308037559810
+    second: tiv4_full_RED_96
+  - first:
+      213: -5652631000946329690
+    second: tiv4_full_RED_97
+  - first:
+      213: -8445186625984322129
+    second: tiv4_full_RED_98
+  - first:
+      213: 1952674629267095156
+    second: tiv4_full_RED_99
+  - first:
+      213: 6497647308539959994
+    second: tiv4_full_RED_100
+  - first:
+      213: 2251071842115582751
+    second: tiv4_full_RED_101
+  - first:
+      213: -2248430217104458418
+    second: tiv4_full_RED_102
+  - first:
+      213: 4839277570219943895
+    second: tiv4_full_RED_103
+  - first:
+      213: -355678520899391116
+    second: tiv4_full_RED_104
+  - first:
+      213: -467509699001371066
+    second: tiv4_full_RED_105
+  - first:
+      213: 2896132459183594467
+    second: tiv4_full_RED_106
+  - first:
+      213: -8704477087539437143
+    second: tiv4_full_RED_107
+  - first:
+      213: -32164044054658214
+    second: tiv4_full_RED_108
+  - first:
+      213: -753517815922142177
+    second: tiv4_full_RED_109
+  - first:
+      213: -628162785839420138
+    second: tiv4_full_RED_110
+  - first:
+      213: -1953623133634558299
+    second: tiv4_full_RED_111
+  - first:
+      213: 4776869324817158028
+    second: tiv4_full_RED_112
+  - first:
+      213: 5205559784521975468
+    second: tiv4_full_RED_113
+  - first:
+      213: -1457553131053519351
+    second: tiv4_full_RED_114
+  - first:
+      213: -7368416332516944996
+    second: tiv4_full_RED_115
+  - first:
+      213: -6906468983333758897
+    second: tiv4_full_RED_116
+  - first:
+      213: -1232566879663756607
+    second: tiv4_full_RED_117
+  - first:
+      213: -1866459864570985128
+    second: tiv4_full_RED_118
+  - first:
+      213: -9064315224006204341
+    second: tiv4_full_RED_119
+  - first:
+      213: -1408168336991029710
+    second: tiv4_full_RED_120
+  - first:
+      213: 7784223239888237756
+    second: tiv4_full_RED_121
+  - first:
+      213: 8793516702928072981
+    second: tiv4_full_RED_122
+  - first:
+      213: 3404536317002002832
+    second: tiv4_full_RED_123
+  - first:
+      213: 8590892356728023212
+    second: tiv4_full_RED_124
+  - first:
+      213: 3691682447982826663
+    second: tiv4_full_RED_125
+  - first:
+      213: -1748465151585129301
+    second: tiv4_full_RED_126
+  - first:
+      213: -9033226904630710785
+    second: tiv4_full_RED_127
+  - first:
+      213: -1882478435403399423
+    second: tiv4_full_RED_128
+  - first:
+      213: -4053178241879794315
+    second: tiv4_full_RED_129
+  - first:
+      213: 3147844869479625559
+    second: tiv4_full_RED_130
+  - first:
+      213: 2324594836092340166
+    second: tiv4_full_RED_131
+  - first:
+      213: 2456574650521251142
+    second: tiv4_full_RED_132
+  - first:
+      213: -7772573925133941512
+    second: tiv4_full_RED_133
+  - first:
+      213: -7458068638774312882
+    second: tiv4_full_RED_134
+  - first:
+      213: -1060587732288554689
+    second: tiv4_full_RED_135
+  - first:
+      213: -7727272800040737910
+    second: tiv4_full_RED_136
+  - first:
+      213: 962619552083401457
+    second: tiv4_full_RED_137
+  - first:
+      213: -7525634552946782436
+    second: tiv4_full_RED_138
+  - first:
+      213: -7329240768192274125
+    second: tiv4_full_RED_139
+  - first:
+      213: 7878841050149943
+    second: tiv4_full_RED_140
+  - first:
+      213: 5910739728755521606
+    second: tiv4_full_RED_141
+  - first:
+      213: 1001774953170206053
+    second: tiv4_full_RED_142
+  - first:
+      213: -1066864001144105929
+    second: tiv4_full_RED_143
+  - first:
+      213: 7297370943002147614
+    second: tiv4_full_RED_144
+  - first:
+      213: 4185637443033153857
+    second: tiv4_full_RED_145
+  - first:
+      213: 6017459297661117833
+    second: tiv4_full_RED_146
+  - first:
+      213: 7329935845617649056
+    second: tiv4_full_RED_147
+  - first:
+      213: -2485533750342117370
+    second: tiv4_full_RED_148
+  - first:
+      213: -5569439050967523759
+    second: tiv4_full_RED_149
+  - first:
+      213: 2511432794831782111
+    second: tiv4_full_RED_150
+  - first:
+      213: -1237355858728396578
+    second: tiv4_full_RED_151
+  - first:
+      213: 6526108985302819355
+    second: tiv4_full_RED_152
+  - first:
+      213: -2984675486096015904
+    second: tiv4_full_RED_153
+  - first:
+      213: -2580915440801180815
+    second: tiv4_full_RED_154
+  - first:
+      213: 1602692008338956667
+    second: tiv4_full_RED_155
+  - first:
+      213: -8706034351280382422
+    second: tiv4_full_RED_156
+  - first:
+      213: 5920893095442656242
+    second: tiv4_full_RED_157
+  - first:
+      213: -7073527482626480659
+    second: tiv4_full_RED_158
+  - first:
+      213: -1129862704503059658
+    second: tiv4_full_RED_159
+  - first:
+      213: 6396231826855492900
+    second: tiv4_full_RED_160
+  - first:
+      213: 5531772231267952721
+    second: tiv4_full_RED_161
+  - first:
+      213: -7255816399127122205
+    second: tiv4_full_RED_162
+  - first:
+      213: -9001294069571270873
+    second: tiv4_full_RED_163
+  - first:
+      213: -8820817561805505437
+    second: tiv4_full_RED_164
+  - first:
+      213: 7174691336008845349
+    second: tiv4_full_RED_165
+  - first:
+      213: -5653430841782304994
+    second: tiv4_full_RED_166
+  - first:
+      213: 8982746548129558838
+    second: tiv4_full_RED_167
+  - first:
+      213: -2649643278060528300
+    second: tiv4_full_RED_168
+  - first:
+      213: -4963851937140263440
+    second: tiv4_full_RED_169
+  - first:
+      213: 6368832286355537387
+    second: tiv4_full_RED_170
+  - first:
+      213: 6438635837648784887
+    second: tiv4_full_RED_171
+  - first:
+      213: 3975237141862371863
+    second: tiv4_full_RED_172
+  - first:
+      213: -1665278494848210583
+    second: tiv4_full_RED_173
+  - first:
+      213: 2849363397058364314
+    second: tiv4_full_RED_174
+  - first:
+      213: -344768715266878852
+    second: tiv4_full_RED_175
+  - first:
+      213: -1921448378979569104
+    second: tiv4_full_RED_176
+  - first:
+      213: -4837894727493589752
+    second: tiv4_full_RED_177
+  - first:
+      213: 7618936650250213772
+    second: tiv4_full_RED_178
+  - first:
+      213: 2079988094985472281
+    second: tiv4_full_RED_179
+  - first:
+      213: -1199222146742255240
+    second: tiv4_full_RED_180
+  - first:
+      213: -837356385485600429
+    second: tiv4_full_RED_181
+  - first:
+      213: -7812353508724768016
+    second: tiv4_full_RED_182
+  - first:
+      213: -2402399004492495348
+    second: tiv4_full_RED_183
+  - first:
+      213: 8304747707388211400
+    second: tiv4_full_RED_184
+  - first:
+      213: 5700029863883466956
+    second: tiv4_full_RED_185
+  - first:
+      213: 4576538166080885906
+    second: tiv4_full_RED_186
+  - first:
+      213: 3231252569419908875
+    second: tiv4_full_RED_187
+  - first:
+      213: -4665838241896017342
+    second: tiv4_full_RED_188
+  - first:
+      213: 164527977194782481
+    second: tiv4_full_RED_189
+  - first:
+      213: 8900358389643670659
+    second: tiv4_full_RED_190
+  - first:
+      213: 5317028424840959609
+    second: tiv4_full_RED_191
+  - first:
+      213: 5195729504383440362
+    second: tiv4_full_RED_192
+  - first:
+      213: 4828527557564860931
+    second: tiv4_full_RED_193
+  - first:
+      213: 1824542338279425827
+    second: tiv4_full_RED_194
+  - first:
+      213: 7542825385224372032
+    second: tiv4_full_RED_195
+  - first:
+      213: 8580458712697670848
+    second: tiv4_full_RED_196
+  - first:
+      213: 542074121949243646
+    second: tiv4_full_RED_197
+  - first:
+      213: -2245369307115456481
+    second: tiv4_full_RED_198
+  - first:
+      213: -4210440314562251218
+    second: tiv4_full_RED_199
+  - first:
+      213: -6329182369150448117
+    second: tiv4_full_RED_200
+  - first:
+      213: 8377386858499829901
+    second: tiv4_full_RED_201
+  - first:
+      213: 7778562464755244121
+    second: tiv4_full_RED_202
+  - first:
+      213: 4272810989567006447
+    second: tiv4_full_RED_203
+  - first:
+      213: -2408475921152804197
+    second: tiv4_full_RED_204
+  - first:
+      213: -1412123461274496675
+    second: tiv4_full_RED_205
+  - first:
+      213: 8569348185434458543
+    second: tiv4_full_RED_206
+  - first:
+      213: -6232836503677230138
+    second: tiv4_full_RED_207
+  - first:
+      213: -5491894716862861930
+    second: tiv4_full_RED_208
+  - first:
+      213: -4065124286265650772
+    second: tiv4_full_RED_209
+  - first:
+      213: 395429302077462930
+    second: tiv4_full_RED_210
+  - first:
+      213: -5688613658589143184
+    second: tiv4_full_RED_211
+  - first:
+      213: -4702886367534171065
+    second: tiv4_full_RED_212
+  - first:
+      213: -4346683755058694148
+    second: tiv4_full_RED_213
+  - first:
+      213: 3873055743742644144
+    second: tiv4_full_RED_214
+  - first:
+      213: 6804411271798126693
+    second: tiv4_full_RED_215
+  - first:
+      213: 4085113941868931939
+    second: tiv4_full_RED_216
+  - first:
+      213: 4834518478682175598
+    second: tiv4_full_RED_217
+  - first:
+      213: 7702637300634948805
+    second: tiv4_full_RED_218
+  - first:
+      213: 8340573958844965413
+    second: tiv4_full_RED_219
+  - first:
+      213: 5769352372396724418
+    second: tiv4_full_RED_220
+  - first:
+      213: 4657674864328921360
+    second: tiv4_full_RED_221
+  - first:
+      213: -1355298045407969401
+    second: tiv4_full_RED_222
+  - first:
+      213: -6531750289445703667
+    second: tiv4_full_RED_223
+  - first:
+      213: -3961074104365863406
+    second: tiv4_full_RED_224
+  - first:
+      213: 1399087370142447446
+    second: tiv4_full_RED_225
+  - first:
+      213: 8374996141779547725
+    second: tiv4_full_RED_226
+  - first:
+      213: -5213418455076962054
+    second: tiv4_full_RED_227
+  - first:
+      213: 2499033448858948242
+    second: tiv4_full_RED_228
+  - first:
+      213: 2108935003506903558
+    second: tiv4_full_RED_229
+  - first:
+      213: -5883722739813083517
+    second: tiv4_full_RED_230
+  - first:
+      213: 4572648724507495525
+    second: tiv4_full_RED_231
+  - first:
+      213: 6445675556840429569
+    second: tiv4_full_RED_232
+  - first:
+      213: -4798924306615014136
+    second: tiv4_full_RED_233
+  - first:
+      213: 5811140305951073826
+    second: tiv4_full_RED_234
+  - first:
+      213: 2186415147833873179
+    second: tiv4_full_RED_235
+  - first:
+      213: -6250183914207877678
+    second: tiv4_full_RED_236
+  - first:
+      213: -4592411087342867001
+    second: tiv4_full_RED_237
+  - first:
+      213: -7138263455764105661
+    second: tiv4_full_RED_238
+  - first:
+      213: 8462000359476145821
+    second: tiv4_full_RED_239
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tiv4_full_RED_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2244
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8fcef6c41cae7f0800000000000000
+      internalID: -582440667751581489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_1
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 2244
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75d717dbd2f0e1c0800000000000000
+      internalID: -4476311003585849990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_2
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 2244
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1442cd6944284f20800000000000000
+      internalID: 3407013015898440731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_3
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 2244
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0cdd557161d32be0800000000000000
+      internalID: -1503127634100495347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_4
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 2244
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7733733a246e95870800000000000000
+      internalID: 8672215731359134583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_5
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 2244
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b254c289ad2368d20800000000000000
+      internalID: 3280365293023282475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_6
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 2244
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ed9fc692b8f3660800000000000000
+      internalID: 7367760525439655469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_7
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 2244
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c307feebfe120110800000000000000
+      internalID: 1225576115992986569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_8
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 2244
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997ac14f21211c970800000000000000
+      internalID: 8773313421708666777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_9
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 2244
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb68e092cbbda36d0800000000000000
+      internalID: -3009851799754602818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_10
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 2244
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ecc0cbcd02a47f60800000000000000
+      internalID: 8031222215645121763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_11
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 2244
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b9282c2dd3c1440800000000000000
+      internalID: 4907865669342763907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_12
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 2244
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c351a87f627b558a0800000000000000
+      internalID: -6316941524327590596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_13
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 2244
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4774bb8217b4d91e0800000000000000
+      internalID: -2189510894445443212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_14
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 2244
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa0ff6f8403bcc20800000000000000
+      internalID: 3227726647880780451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_15
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 2244
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8acb482a1ba2170800000000000000
+      internalID: 8154525386877479086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_16
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 2244
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8957328d948198080800000000000000
+      internalID: -9184783259607534184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_17
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 2244
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b163b91de79d9b0800000000000000
+      internalID: -5054869668029392079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_18
+      rect:
+        serializedVersion: 2
+        x: 3672
+        y: 2244
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcbb3cfcb6a35f2a0800000000000000
+      internalID: -6704388235549492275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_19
+      rect:
+        serializedVersion: 2
+        x: 3876
+        y: 2244
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7cfe29d74753220800000000000000
+      internalID: 2465004453740136391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2040
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c7ebd17e99d3dc0800000000000000
+      internalID: -3657598104439456684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_21
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 2040
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24153893dfc3ac1c0800000000000000
+      internalID: -4482703420804607678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_22
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 2040
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f73d15bce1e2530800000000000000
+      internalID: 3832034191538880381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_23
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 2040
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b1ac7f7658f3bc0800000000000000
+      internalID: -3801172878892065902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_24
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 2040
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a2718bc8bf8d9c0800000000000000
+      internalID: -3902092495314015625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_25
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 2040
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e44f55bb872b460800000000000000
+      internalID: 7255994695643582076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_26
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 2040
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1bd2046c2f0f170800000000000000
+      internalID: 8210329053990597100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_27
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 2040
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23aae24c3d233780800000000000000
+      internalID: -8704563917933075667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_28
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 2040
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb02f75618171fc0800000000000000
+      internalID: -3524321699150296144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_29
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 2040
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90c1791286984050800000000000000
+      internalID: 5785039206874202267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_30
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 2040
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ec2293f98b96e90800000000000000
+      internalID: -7031886349164425647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_31
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 2040
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c95c3b68cf780110800000000000000
+      internalID: 1227371397227764163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_32
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 2040
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a560d400b6cf2ed10800000000000000
+      internalID: 2153561108333266522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_33
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 2040
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc717d5401f6b750800000000000000
+      internalID: 6320504128110951665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_34
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 2040
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e702d4540a6c3fb00800000000000000
+      internalID: 861250345417646206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_35
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 2040
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d229ec0350d1540800000000000000
+      internalID: 4980142470123892094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_36
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 2040
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e8b903e3221cd00800000000000000
+      internalID: 991111043497037453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_37
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 2040
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee40493f46bd63d10800000000000000
+      internalID: 2105111102472062190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_38
+      rect:
+        serializedVersion: 2
+        x: 3672
+        y: 2040
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6479f238aa3b72700800000000000000
+      internalID: 515578227283957574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_39
+      rect:
+        serializedVersion: 2
+        x: 3876
+        y: 2040
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d9ba4d388cfa000800000000000000
+      internalID: 49478589458652570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1836
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a5af1dd3e5c75c0800000000000000
+      internalID: -4216391531516765693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_41
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1836
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c0c7ce5211c43b0800000000000000
+      internalID: -5527023788111426413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_42
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1836
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2dd31528f10ee8a0800000000000000
+      internalID: -6274075065594946260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_43
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1836
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a514c51c8df5a8e90800000000000000
+      internalID: -7022695284369243814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_44
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1836
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0617f101626e2c420800000000000000
+      internalID: 2648932582000914784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_45
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1836
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cef7957934811370800000000000000
+      internalID: 8291553771286691522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_46
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1836
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926e015c086c12f60800000000000000
+      internalID: 8007899868805785129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_47
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 1836
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db6152dd788656d0800000000000000
+      internalID: -3002062027615015976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_48
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1836
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128bf3ab09e226cd0800000000000000
+      internalID: -2566437638512855007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_49
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 1836
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00dd818467589660800000000000000
+      internalID: 7392754877510569995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_50
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1836
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532a978612c35e650800000000000000
+      internalID: 6261476971112931893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_51
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 1836
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb8719b92b461590800000000000000
+      internalID: -7703887469999584274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_52
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 1836
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810cf4f5a177a5b50800000000000000
+      internalID: 6582704760507318296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_53
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 1836
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19d8eb277ca0a500800000000000000
+      internalID: 405513594301110557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_54
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 1836
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4a19e20469360d0800000000000000
+      internalID: -3430733288722815791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_55
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 1836
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7847d6a1fbb2290800000000000000
+      internalID: -7914021799947106306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_56
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 1836
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a62940e71b04490800000000000000
+      internalID: -7764010602786035127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_57
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 1836
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f353276afc9cd8b50800000000000000
+      internalID: 6597150922855560511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_58
+      rect:
+        serializedVersion: 2
+        x: 3672
+        y: 1836
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd47523f29e4382a0800000000000000
+      internalID: -6736454224564620067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_59
+      rect:
+        serializedVersion: 2
+        x: 3876
+        y: 1836
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70edd310dc34fb70800000000000000
+      internalID: 8931830825366708348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1632
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ded0e646a93d2a0800000000000000
+      internalID: -6713852863345464060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_61
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1632
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f904028e836e19a0800000000000000
+      internalID: -6260456968280602125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_62
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1632
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8745bc62636484cb0800000000000000
+      internalID: -4879572997862894472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_63
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1632
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16bab5268e782410800000000000000
+      internalID: 1452549994450695706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_64
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1632
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d377bc36897de00800000000000000
+      internalID: 1069490990906555682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_65
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1632
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b0fd946f1c0b280800000000000000
+      internalID: -9029503989332374656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_66
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1632
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b844286fb6075caa0800000000000000
+      internalID: -6141378907850259317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_67
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 1632
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a347fef2bde903640800000000000000
+      internalID: 5057717045776315450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_68
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1632
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae59ffac998226e00800000000000000
+      internalID: 1036435505249490410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_69
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 1632
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea8e1c7b05bb84a0800000000000000
+      internalID: -6589974568794944792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_70
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1632
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d72c235af515dc70800000000000000
+      internalID: 8995119995623843792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_71
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 1632
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb822c75735d49550800000000000000
+      internalID: 6166788223449311423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_72
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 1632
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a72a46aa5f029b0800000000000000
+      internalID: -5106811865256527258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_73
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 1632
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6cee493dc4219ab0800000000000000
+      internalID: -5003177247183541137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_74
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 1632
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df728f388a9d7f320800000000000000
+      internalID: 2591779428366821373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_75
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 1632
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3629c22778451d0f0800000000000000
+      internalID: -1094000293761478045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_76
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 1632
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed286aa63c80ae20800000000000000
+      internalID: 3359839488433466848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_77
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 1632
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c887e2249c187bf50800000000000000
+      internalID: 6897124055739955340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_78
+      rect:
+        serializedVersion: 2
+        x: 3672
+        y: 1632
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4b1c8dd4dbe8b10800000000000000
+      internalID: 1985732627763672283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_79
+      rect:
+        serializedVersion: 2
+        x: 3876
+        y: 1632
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113d0b61a73567250800000000000000
+      internalID: 5942028542193750801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1428
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a071160fb346a27f0800000000000000
+      internalID: -636586188720761078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_81
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1428
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12007bc4743368d10800000000000000
+      internalID: 2127444255301894177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_82
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1428
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18bd9d5ac85326ef0800000000000000
+      internalID: -116471762163999871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_83
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1428
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c4207f9f5cb0650800000000000000
+      internalID: 6200266989387271301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_84
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1428
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d07b1662a1c4b430800000000000000
+      internalID: 3797873289022107859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_85
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1428
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9cac143411c9ced0800000000000000
+      internalID: -2393169434452906854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_86
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1428
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6d0920b0628a370800000000000000
+      internalID: 8333952939178645236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_87
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 1428
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263d9afce2e21f5c0800000000000000
+      internalID: -4183511800263093406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_88
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1428
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd3074140b272860800000000000000
+      internalID: 7505014600558984689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_89
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 1428
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40f91888234bc6f0800000000000000
+      internalID: -663362678745862069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_90
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1428
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c022cee08596f8960800000000000000
+      internalID: 7606414122580451852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_91
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 1428
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb25cae4a72ed6fa0800000000000000
+      internalID: -5805735329676897604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_92
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 1428
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a001389ed944bc0800000000000000
+      internalID: -3799738559342048756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_93
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 1428
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41f96cab9dd3a870800000000000000
+      internalID: 8693035366437482831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_94
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 1428
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97da7d9a0f3b51b30800000000000000
+      internalID: 4257506868971679097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_95
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 1428
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082eca056e6f68650800000000000000
+      internalID: 6234942203197448832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_96
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 1428
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef978aab079a88eb0800000000000000
+      internalID: -4717334308037559810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_97
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 1428
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7bb36bd02dd81b0800000000000000
+      internalID: -5652631000946329690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_98
+      rect:
+        serializedVersion: 2
+        x: 3672
+        y: 1428
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa52358128bacca80800000000000000
+      internalID: -8445186625984322129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_99
+      rect:
+        serializedVersion: 2
+        x: 3876
+        y: 1428
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ef167ca3b491b10800000000000000
+      internalID: 1952674629267095156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1224
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba1c451dc74c2a50800000000000000
+      internalID: 6497647308539959994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_101
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1224
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bfe29e9e96d3f10800000000000000
+      internalID: 2251071842115582751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_102
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1224
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4dfb3751a8fbc0e0800000000000000
+      internalID: -2248430217104458418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_103
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1224
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7a97e7f41982340800000000000000
+      internalID: 4839277570219943895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_104
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1224
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4713e8b0540601bf0800000000000000
+      internalID: -355678520899391116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_105
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1224
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64639fdd7621389f0800000000000000
+      internalID: -467509699001371066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_106
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1224
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ebdd149021213820800000000000000
+      internalID: 2896132459183594467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_107
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 1224
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a16fa9053c733780800000000000000
+      internalID: -8704477087539437143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_108
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1224
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53059be8fabd8ff0800000000000000
+      internalID: -32164044054658214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_109
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 1224
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14580ae987fa85f0800000000000000
+      internalID: -753517815922142177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_110
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1224
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61debe046415847f0800000000000000
+      internalID: -628162785839420138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_111
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 1224
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a60ab65c1653e4e0800000000000000
+      internalID: -1953623133634558299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_112
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 1224
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8fcf2c8759da4240800000000000000
+      internalID: 4776869324817158028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_113
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 1224
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6cd753b0ddd3840800000000000000
+      internalID: 5205559784521975468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_114
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 1224
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90eeb46562bb5cbe0800000000000000
+      internalID: -1457553131053519351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_115
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 1224
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93142792602eb990800000000000000
+      internalID: -7368416332516944996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_116
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 1224
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48532c3d0b4720a0800000000000000
+      internalID: -6906468983333758897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_117
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 1224
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1caeabf04fa05eee0800000000000000
+      internalID: -1232566879663756607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_118
+      rect:
+        serializedVersion: 2
+        x: 3672
+        y: 1224
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85509b064a00916e0800000000000000
+      internalID: -1866459864570985128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_119
+      rect:
+        serializedVersion: 2
+        x: 3876
+        y: 1224
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44e1fc1455153280800000000000000
+      internalID: -9064315224006204341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1020
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23672b9bb5e257ce0800000000000000
+      internalID: -1408168336991029710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_121
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1020
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4f0e94bcd170c60800000000000000
+      internalID: 7784223239888237756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_122
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1020
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511fd7ce9d8d80a70800000000000000
+      internalID: 8793516702928072981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_123
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1020
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09132d70eb75f3f20800000000000000
+      internalID: 3404536317002002832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_124
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1020
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8646af41bf83770800000000000000
+      internalID: 8590892356728023212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_125
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1020
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a49f8780ad7b3330800000000000000
+      internalID: 3691682447982826663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_126
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1020
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac6e9955343cb7e0800000000000000
+      internalID: -1748465151585129301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_127
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 1020
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd2cf58df783a280800000000000000
+      internalID: -9033226904630710785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_128
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1020
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f727836d710e5e0800000000000000
+      internalID: -1882478435403399423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_129
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 1020
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d99691dd730c7c0800000000000000
+      internalID: -4053178241879794315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_130
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1020
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7537e551b346fab20800000000000000
+      internalID: 3147844869479625559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_131
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 1020
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7cdfbefae924020800000000000000
+      internalID: 2324594836092340166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_132
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 1020
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d6c8011a1871220800000000000000
+      internalID: 2456574650521251142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_133
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 1020
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f48de92235422490800000000000000
+      internalID: -7772573925133941512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_134
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 1020
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40406b661e9f7890800000000000000
+      internalID: -7458068638774312882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_135
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 1020
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39bdc3a3190841f0800000000000000
+      internalID: -1060587732288554689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_136
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 1020
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83a807445633c490800000000000000
+      internalID: -7727272800040737910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_137
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 1020
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fad6c7e169eb5d00800000000000000
+      internalID: 962619552083401457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_138
+      rect:
+        serializedVersion: 2
+        x: 3672
+        y: 1020
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f83322f339f8790800000000000000
+      internalID: -7525634552946782436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_139
+      rect:
+        serializedVersion: 2
+        x: 3876
+        y: 1020
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331a6927a5e494a90800000000000000
+      internalID: -7329240768192274125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 816
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7343902a3cdfb1000800000000000000
+      internalID: 7878841050149943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_141
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 816
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648f244877a270250800000000000000
+      internalID: 5910739728755521606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_142
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 816
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56df794230507ed00800000000000000
+      internalID: 1001774953170206053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_143
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 816
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734572ce7dcb131f0800000000000000
+      internalID: -1066864001144105929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_144
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 816
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b76e3a538754560800000000000000
+      internalID: 7297370943002147614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_145
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 816
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141c096f31f561a30800000000000000
+      internalID: 4185637443033153857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_146
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 816
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985667f695f428350800000000000000
+      internalID: 6017459297661117833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_147
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 816
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a54170e0d929b560800000000000000
+      internalID: 7329935845617649056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_148
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 816
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6081d95193c918dd0800000000000000
+      internalID: -2485533750342117370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_149
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 816
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e54e8f0b065b2b0800000000000000
+      internalID: -5569439050967523759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_150
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 816
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0073d12d66ad220800000000000000
+      internalID: 2511432794831782111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_151
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 816
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8debbf66704dee0800000000000000
+      internalID: -1237355858728396578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_152
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 816
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12a57a9b85619a50800000000000000
+      internalID: 6526108985302819355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_153
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 816
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed3e69757d4496d0800000000000000
+      internalID: -2984675486096015904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_154
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 816
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17399b3b41fbe2cd0800000000000000
+      internalID: -2580915440801180815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_155
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 816
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71a661e3e7ed3610800000000000000
+      internalID: 1602692008338956667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_156
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 816
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e959152e3fd2780800000000000000
+      internalID: -8706034351280382422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_157
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 816
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb2cea66ec3b2250800000000000000
+      internalID: 5920893095442656242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_158
+      rect:
+        serializedVersion: 2
+        x: 3672
+        y: 816
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5e5115b38c5dd90800000000000000
+      internalID: -7073527482626480659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_159
+      rect:
+        serializedVersion: 2
+        x: 3876
+        y: 816
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b02254bdbe150f0800000000000000
+      internalID: -1129862704503059658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 612
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42df4c435faf3c850800000000000000
+      internalID: 6396231826855492900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_161
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 612
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158a817298dc4cc40800000000000000
+      internalID: 5531772231267952721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_162
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 612
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eee29e8d692e4b90800000000000000
+      internalID: -7255816399127122205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_163
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 612
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727cf501cbaf41380800000000000000
+      internalID: -9001294069571270873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_164
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 612
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c3e088929269580800000000000000
+      internalID: -8820817561805505437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_165
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 612
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52841e7c1cf919360800000000000000
+      internalID: 7174691336008845349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_166
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 612
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ff3514a9afa81b0800000000000000
+      internalID: -5653430841782304994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_167
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 612
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631f0a4946029ac70800000000000000
+      internalID: 8982746548129558838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_168
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 612
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d53bd1a739a3bd0800000000000000
+      internalID: -2649643278060528300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_169
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 612
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5be1976fadc1bb0800000000000000
+      internalID: -4963851937140263440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_170
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 612
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bedb24e8833a26850800000000000000
+      internalID: 6368832286355537387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_171
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 612
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fdc7255e21aa5950800000000000000
+      internalID: 6438635837648784887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_172
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 612
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71255aa6e11ea2730800000000000000
+      internalID: 3975237141862371863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_173
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 612
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969a97e280eb3e8e0800000000000000
+      internalID: -1665278494848210583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_174
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 612
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a930aadb9e8fa8720800000000000000
+      internalID: 2849363397058364314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_175
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 612
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7299dc1ea2273bf0800000000000000
+      internalID: -344768715266878852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_176
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 612
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0323cac21e4a555e0800000000000000
+      internalID: -1921448378979569104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_177
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 612
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805620ba0685cdcb0800000000000000
+      internalID: -4837894727493589752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_178
+      rect:
+        serializedVersion: 2
+        x: 3672
+        y: 612
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c895e5c3486ebb960800000000000000
+      internalID: 7618936650250213772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_179
+      rect:
+        serializedVersion: 2
+        x: 3876
+        y: 612
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91986a2f62a9ddc10800000000000000
+      internalID: 2079988094985472281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 408
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87185a0bfc18b5fe0800000000000000
+      internalID: -1199222146742255240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_181
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 408
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359c9bccdcc1164f0800000000000000
+      internalID: -837356385485600429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_182
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 408
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f20fac10e1f49390800000000000000
+      internalID: -7812353508724768016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_183
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 408
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06097875d6f8aed0800000000000000
+      internalID: -2402399004492495348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_184
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 408
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c03d181a04604370800000000000000
+      internalID: 8304747707388211400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_185
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 408
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc864ed06f29a1f40800000000000000
+      internalID: 5700029863883466956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_186
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 408
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294d44ae631238f30800000000000000
+      internalID: 4576538166080885906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_187
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 408
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0787db8717b7dc20800000000000000
+      internalID: 3231252569419908875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_188
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 408
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242da54f6dc9f3fb0800000000000000
+      internalID: -4665838241896017342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_189
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 408
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ffe44d255884200800000000000000
+      internalID: 164527977194782481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_190
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 408
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384f06c9ccc648b70800000000000000
+      internalID: 8900358389643670659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_191
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 408
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976dc4b7e21e9c940800000000000000
+      internalID: 5317028424840959609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_192
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 408
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae59ac1c470fa1840800000000000000
+      internalID: 5195729504383440362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_193
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 408
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a86d02b30620340800000000000000
+      internalID: 4828527557564860931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_194
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 408
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3274ecef693125910800000000000000
+      internalID: 1824542338279425827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_195
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 408
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ff81969bf7da860800000000000000
+      internalID: 7542825385224372032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_196
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 408
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc004cecb9e31770800000000000000
+      internalID: 8580458712697670848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_197
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 408
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef867b8ba85d58700800000000000000
+      internalID: 542074121949243646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_198
+      rect:
+        serializedVersion: 2
+        x: 3672
+        y: 408
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1871dbf288d6d0e0800000000000000
+      internalID: -2245369307115456481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_199
+      rect:
+        serializedVersion: 2
+        x: 3876
+        y: 408
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26788e77d28195c0800000000000000
+      internalID: -4210440314562251218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_200
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e4f103b2a3a28a0800000000000000
+      internalID: -6329182369150448117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_201
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 204
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8078e666f4724470800000000000000
+      internalID: 8377386858499829901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_202
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 204
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c5cee595103fb60800000000000000
+      internalID: 7778562464755244121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_203
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 204
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6d689e4f21c4b30800000000000000
+      internalID: 4272810989567006447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_204
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 204
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9afa9d09ef539ed0800000000000000
+      internalID: -2408475921152804197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_205
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 204
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d511db79131276ce0800000000000000
+      internalID: -1412123461274496675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_206
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 204
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa98575b5c07ce670800000000000000
+      internalID: 8569348185434458543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_207
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 204
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c32b3f09348089a0800000000000000
+      internalID: -6232836503677230138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_208
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 204
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d6b813aded8c3b0800000000000000
+      internalID: -5491894716862861930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_209
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 204
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca19255eff6c597c0800000000000000
+      internalID: -4065124286265650772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_210
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 204
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2999b1cead8dc7500800000000000000
+      internalID: 395429302077462930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_211
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 204
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07fdb5f540cfd01b0800000000000000
+      internalID: -5688613658589143184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_212
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 204
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c391404cdfbbeb0800000000000000
+      internalID: -4702886367534171065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_213
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 204
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7f3cc872a7da3c0800000000000000
+      internalID: -4346683755058694148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_214
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 204
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf0119bdabdfb530800000000000000
+      internalID: 3873055743742644144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_215
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 204
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568f03910002e6e50800000000000000
+      internalID: 6804411271798126693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_216
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 204
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36be71c7c7d31b830800000000000000
+      internalID: 4085113941868931939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_217
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 204
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68b9e521f8a71340800000000000000
+      internalID: 4834518478682175598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_218
+      rect:
+        serializedVersion: 2
+        x: 3672
+        y: 204
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4150a80d345ea60800000000000000
+      internalID: 7702637300634948805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_219
+      rect:
+        serializedVersion: 2
+        x: 3876
+        y: 204
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522e3d743dbafb370800000000000000
+      internalID: 8340573958844965413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_220
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c093c45a6bd01050800000000000000
+      internalID: 5769352372396724418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_221
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01157979c9263a040800000000000000
+      internalID: 4657674864328921360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_222
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 0
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f3daebb93013de0800000000000000
+      internalID: -1355298045407969401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_223
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 0
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00b80ce7bf8a55a0800000000000000
+      internalID: -6531750289445703667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_224
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 0
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e2648b6107709c0800000000000000
+      internalID: -3961074104365863406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_225
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 0
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657731bec8e8a6310800000000000000
+      internalID: 1399087370142447446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_226
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 0
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46790a4e96f93470800000000000000
+      internalID: 8374996141779547725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_227
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 0
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af00ca7798736a7b0800000000000000
+      internalID: -5213418455076962054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_228
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 0
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2929e096ea95ea220800000000000000
+      internalID: 2499033448858948242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_229
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 0
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a8a6a4631744d10800000000000000
+      internalID: 2108935003506903558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_230
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 0
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3869d886751d85ea0800000000000000
+      internalID: -5883722739813083517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_231
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 0
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c89eab9cf457f30800000000000000
+      internalID: 4572648724507495525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_232
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 0
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10854eea4c3a37950800000000000000
+      internalID: 6445675556840429569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_233
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 0
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d6938d4cbc66db0800000000000000
+      internalID: -4798924306615014136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_234
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 0
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2262b2cc15155a050800000000000000
+      internalID: 5811140305951073826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_235
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 0
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13db2a2ef4b75e10800000000000000
+      internalID: 2186415147833873179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_236
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 0
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d567cc48d2e249a0800000000000000
+      internalID: -6250183914207877678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_237
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 0
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cdec5c927a7440c0800000000000000
+      internalID: -4592411087342867001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_238
+      rect:
+        serializedVersion: 2
+        x: 3672
+        y: 0
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3463706053bcfec90800000000000000
+      internalID: -7138263455764105661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiv4_full_RED_239
+      rect:
+        serializedVersion: 2
+        x: 3876
+        y: 0
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9eadcb4e701f6570800000000000000
+      internalID: 8462000359476145821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: de3479aa874f9f94e964b8bd572e5bc5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
